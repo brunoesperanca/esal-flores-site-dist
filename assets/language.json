@@ -1,0 +1,37 @@
+{
+  "HOME.boasVindas"      : {
+    "pt": "Olá, seja bem vindo!",
+    "en": "Hello, welcome!",
+    "es": "¡Hola, es bienvenido!"
+  },
+  "HOME.buscar"      : {
+    "pt": "Buscar",
+    "en": "Search",
+    "es": "Buscar"
+  },
+  "HOME.cadastreCupom"   : {
+    "pt": "Cadastre-se e ganhe um cupom de desconto de 10%",
+    "en": "Sign up and get a 10% off coupon",
+    "es": "Regístrese y obtenga un cupón de 10% de descuento"
+  },
+  "HOME.carrinho"   : {
+    "pt": "Carrinho",
+    "en": "Cart",
+    "es": "Carrinho"
+  },
+  "HOME.emailCpf"   : {
+    "pt": "Email ou CPF",
+    "en": "Email or SSN",
+    "es": "Email ou RP"
+  },
+  "HOME.localizacao"   : {
+    "pt": "Localização",
+    "en": "Location",
+    "es": "Ubicación"
+  },
+  "HOME.usuario"   : {
+    "pt": "Usuário",
+    "en": "User",
+    "es": "Usuario"
+  }
+}

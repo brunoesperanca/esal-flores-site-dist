@@ -669,7 +669,7 @@ function ProdutoBoxComponent_div_0_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("href", "/produto/", ctx_r2.slugItem, "?id=", ctx_r2.item.id, "", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", ctx_r2.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", ctx_r2.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r2.item.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx_r2.item.item_linkWeb.linkWeb.titulo);
@@ -765,7 +765,7 @@ function ProdutoBoxComponent_div_1_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("href", "/produto/", ctx_r10.slugItem, "?id=", ctx_r10.item.id, "", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", ctx_r10.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", ctx_r10.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r10.item.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx_r10.item.item_linkWeb.linkWeb.titulo);
@@ -2660,7 +2660,7 @@ function HeaderComponent_div_0_ul_75_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("Item ", i_r24 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", item_r23.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", item_r23.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r23.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", item_r23.item_linkWeb.linkWeb.titulo, " ");
@@ -2838,7 +2838,7 @@ function HeaderComponent_div_0_ul_110_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("Item ", i_r35 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", item_r34.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", item_r34.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r34.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", item_r34.item_linkWeb.linkWeb.titulo, " ");
@@ -3498,7 +3498,7 @@ function HeaderComponent_div_1_ul_71_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("Item ", i_r106 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", item_r105.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", item_r105.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r105.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", item_r105.item_linkWeb.linkWeb.titulo, " ");
@@ -3676,7 +3676,7 @@ function HeaderComponent_div_1_ul_104_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("Item ", i_r117 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", item_r116.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", item_r116.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r116.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", item_r116.item_linkWeb.linkWeb.titulo, " ");
@@ -4464,7 +4464,7 @@ function CarrinhoComponent_div_12_tr_15_div_3_Template(rf, ctx) { if (rf & 1) {
     const item_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵnextContext"]().$implicit;
     const ctx_r8 = _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://erpapi.esal.com.br/images/erp_", ctx_r8.layout, "/item/", item_r6.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://esal.api.alleshub.com.br/images/erp_", ctx_r8.layout, "/item/", item_r6.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate"]("alt", item_r6.item_linkWeb.linkWeb.titulo);
 } }
 function CarrinhoComponent_div_12_tr_15_Template(rf, ctx) { if (rf & 1) {
@@ -4590,7 +4590,7 @@ function CarrinhoComponent_div_12_div_17_Template(rf, ctx) { if (rf & 1) {
     const item_r13 = ctx.$implicit;
     const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵadvance"](6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://erpapi.esal.com.br/images/erp_", ctx_r3.layout, "/item/", item_r13.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://esal.api.alleshub.com.br/images/erp_", ctx_r3.layout, "/item/", item_r13.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate"]("alt", item_r13.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵadvance"](5);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtextInterpolate1"](" ", item_r13.item_linkWeb.linkWeb.titulo, " ");
@@ -5885,15 +5885,18 @@ class EntregaComponent {
             const today = new Date();
             if (this.formGeral.value.periodo === '13') {
                 // if (calendarDate.getDate() !== 21 && calendarDate.getDay() !== 0) {
-                if (calendarDate.getDay() !== 0) {
+                if (calendarDate.getDay() !== 0 && calendarDate.getDate() !== 31 && calendarDate.getDate() !== 1) {
                     this.errors.push('Período de "Domingos e Feriados" só pode ser escolhido nos domingos ou feriados');
                 }
             }
-            // if (calendarDate.getDate() === 3 && calendarDate.getMonth() === 5 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
-            //   this.errors.push('Favor escolher o período "Domingos e Feriados (9h as 14h)" para o dia 03/06.');
-            // }
+            if (calendarDate.getDate() === 31 && calendarDate.getMonth() === 11 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
+                this.errors.push('Favor escolher o período "Domingos e Feriados (9h as 14h)" para o dia 31/12.');
+            }
             if (calendarDate.getDay() === 0 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
                 this.errors.push('Para entrega aos domingos, favor escolher o período de entrega "Domingos e Feriados (9h as 14h)".');
+            }
+            if (calendarDate.getDay() === 6) {
+                this.errors.push('A Esalflores não estará realizando entregas dia 01/01/2022, favor escolher uma data posterior.');
             }
             if (calendarDate < today) {
                 this.errors.push('Data selecionada precisa ser maior que a atual.');
@@ -6316,7 +6319,7 @@ function PagamentoComponent_div_57_div_1_Template(rf, ctx) { if (rf & 1) {
 } if (rf & 2) {
     const item_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", item_r21.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate2"]("", item_r21.quantidade, " x ", item_r21.item_linkWeb.linkWeb.titulo, "");
@@ -6329,7 +6332,7 @@ function PagamentoComponent_div_57_div_2_Template(rf, ctx) { if (rf & 1) {
 } if (rf & 2) {
     const item_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", item_r21.item_linkWeb.linkWeb.titulo);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate2"]("", item_r21.quantidade, " x ", item_r21.item_linkWeb.linkWeb.titulo, "");
@@ -9772,7 +9775,7 @@ function StatusPedidoComponent_main_31_ul_49_Template(rf, ctx) { if (rf & 1) {
     const item_r25 = ctx.$implicit;
     const ctx_r10 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("src", "https://erpapi.esal.com.br/images/erp_", ctx_r10.layout, "/item/", item_r25.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("src", "https://esal.api.alleshub.com.br/images/erp_", ctx_r10.layout, "/item/", item_r25.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r25.descricao);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](item_r25.descricao);
@@ -11041,10 +11044,10 @@ function HomeComponent_div_0_div_4_div_4_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("href", banner_r12.link, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r13 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r13 + 1, "");
 } }
 function HomeComponent_div_0_div_4_div_4_Template(rf, ctx) { if (rf & 1) {
@@ -11106,10 +11109,10 @@ function HomeComponent_div_0_div_5_div_4_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("href", banner_r20.link, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r21 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r21 + 1, "");
 } }
 function HomeComponent_div_0_div_5_div_4_Template(rf, ctx) { if (rf & 1) {
@@ -11410,7 +11413,7 @@ function HomeComponent_div_0_div_62_Template(rf, ctx) { if (rf & 1) {
 } if (rf & 2) {
     const ctx_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", ctx_r7.store.layout == null ? null : ctx_r7.store.layout.emp == null ? null : ctx_r7.store.layout.emp.empWeb == null ? null : ctx_r7.store.layout.emp.empWeb.banners == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0] == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0].file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", ctx_r7.store.layout == null ? null : ctx_r7.store.layout.emp == null ? null : ctx_r7.store.layout.emp.empWeb == null ? null : ctx_r7.store.layout.emp.empWeb.banners == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0] == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0].file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 const _c2 = function () { return ["/nossas-lojas"]; };
 function HomeComponent_div_0_Template(rf, ctx) { if (rf & 1) {
@@ -12142,10 +12145,10 @@ function HomeComponent_div_1_div_4_div_4_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("href", banner_r79.link, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r80 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r80 + 1, "");
 } }
 function HomeComponent_div_1_div_4_div_4_Template(rf, ctx) { if (rf & 1) {
@@ -12207,10 +12210,10 @@ function HomeComponent_div_1_div_5_div_4_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("href", banner_r87.link, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r88 + 1, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r88 + 1, "");
 } }
 function HomeComponent_div_1_div_5_div_4_Template(rf, ctx) { if (rf & 1) {
@@ -17490,14 +17493,14 @@ function ProdutoComponent_div_0_div_2_div_15_div_6_Template(rf, ctx) { if (rf & 
     const _r14 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "a", 33);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ProdutoComponent_div_0_div_2_div_15_div_6_Template_a_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r14); const ctx_r13 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4); return ctx_r13.openMdImage("https://erpapi.esal.com.br/images/erp_esalflores/item/" + ctx_r13.item.fotos[ctx_r13.fotoAtual] + ".jpg"); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ProdutoComponent_div_0_div_2_div_15_div_6_Template_a_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r14); const ctx_r13 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4); return ctx_r13.openMdImage("https://esal.api.alleshub.com.br/images/erp_esalflores/item/" + ctx_r13.item.fotos[ctx_r13.fotoAtual] + ".jpg"); });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 34);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", ctx_r6.item.fotos[ctx_r6.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", ctx_r6.item.fotos[ctx_r6.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r6.item.item_linkWeb == null ? null : ctx_r6.item.item_linkWeb.linkWeb.titulo);
 } }
 function ProdutoComponent_div_0_div_2_div_15_div_8_div_1_Template(rf, ctx) { if (rf & 1) {
@@ -17512,7 +17515,7 @@ function ProdutoComponent_div_0_div_2_div_15_div_8_div_1_Template(rf, ctx) { if 
     const i_r16 = ctx_r21.index;
     const ctx_r17 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", foto_r15, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", foto_r15, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "Foto n\u00FAmero ", i_r16 + 1, " do item: ", ctx_r17.item.item_linkWeb == null ? null : ctx_r17.item.item_linkWeb.linkWeb.titulo, "");
 } }
 function ProdutoComponent_div_0_div_2_div_15_div_8_Template(rf, ctx) { if (rf & 1) {
@@ -17741,14 +17744,14 @@ function ProdutoComponent_div_1_div_2_div_15_div_6_Template(rf, ctx) { if (rf & 
     const _r37 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "a", 33);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ProdutoComponent_div_1_div_2_div_15_div_6_Template_a_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r37); const ctx_r36 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4); return ctx_r36.openMdImage("https://erpapi.esal.com.br/images/erp_esalpet/item/" + ctx_r36.item.fotos[ctx_r36.fotoAtual] + ".jpg"); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ProdutoComponent_div_1_div_2_div_15_div_6_Template_a_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r37); const ctx_r36 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4); return ctx_r36.openMdImage("https://esal.api.alleshub.com.br/images/erp_esalpet/item/" + ctx_r36.item.fotos[ctx_r36.fotoAtual] + ".jpg"); });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 34);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r29 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", ctx_r29.item.fotos[ctx_r29.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", ctx_r29.item.fotos[ctx_r29.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r29.item.item_linkWeb == null ? null : ctx_r29.item.item_linkWeb.linkWeb.titulo);
 } }
 function ProdutoComponent_div_1_div_2_div_15_div_8_div_1_Template(rf, ctx) { if (rf & 1) {
@@ -17763,7 +17766,7 @@ function ProdutoComponent_div_1_div_2_div_15_div_8_div_1_Template(rf, ctx) { if 
     const i_r39 = ctx_r44.index;
     const ctx_r40 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", foto_r38, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", foto_r38, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "Foto n\u00FAmero ", i_r39 + 1, " do item: ", ctx_r40.item.item_linkWeb == null ? null : ctx_r40.item.item_linkWeb.linkWeb.titulo, "");
 } }
 function ProdutoComponent_div_1_div_2_div_15_div_8_Template(rf, ctx) { if (rf & 1) {
@@ -20066,9 +20069,9 @@ module.exports = JSON.parse("{\"HOME.boasVindas\":{\"pt\":\"Olá, seja bem vindo
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
 const environment = {
-    API_URL: 'https://erpapi.esal.com.br/api_flores/',
+    API_URL: 'https://esal.api.alleshub.com.br/api_flores/',
     // API_URL: 'http://localhost/esal-erp-backend/public/api_flores/',
-    IMG_URL: 'https://erpapi.esal.com.br/images/erp_esalflores/',
+    IMG_URL: 'https://esal.api.alleshub.com.br/images/erp_esalflores/',
     production: true,
     layout: 'esalflores',
     recaptchaToken: '6LfkKGMaAAAAAE-MijiQuVm5VKnQZf64WetLJOFD',
@@ -20092,9 +20095,9 @@ __webpack_require__.r(__webpack_exports__);
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 const environment = {
-    API_URL: 'https://erpapi.esal.com.br/api_flores/',
+    API_URL: 'https://esal.api.alleshub.com.br/api_flores/',
     // API_URL: 'http://localhost/esal-erp-backend/public/api_flores/',
-    IMG_URL: 'https://erpapi.esal.com.br/images/erp_esalflores/',
+    IMG_URL: 'https://esal.api.alleshub.com.br/images/erp_esalflores/',
     production: false,
     layout: 'esalflores',
     recaptchaToken: '6LfkKGMaAAAAAE-MijiQuVm5VKnQZf64WetLJOFD',

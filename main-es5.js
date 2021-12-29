@@ -1355,7 +1355,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", ctx_r2.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", ctx_r2.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r2.item.item_linkWeb.linkWeb.titulo);
 
@@ -1559,7 +1559,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", ctx_r10.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", ctx_r10.item.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r10.item.item_linkWeb.linkWeb.titulo);
 
@@ -6464,7 +6464,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", item_r23.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", item_r23.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r23.item_linkWeb.linkWeb.titulo);
 
@@ -6847,7 +6847,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", item_r34.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", item_r34.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r34.item_linkWeb.linkWeb.titulo);
 
@@ -8290,7 +8290,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", item_r105.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", item_r105.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r105.item_linkWeb.linkWeb.titulo);
 
@@ -8673,7 +8673,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", item_r116.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", item_r116.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r116.item_linkWeb.linkWeb.titulo);
 
@@ -10302,7 +10302,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://erpapi.esal.com.br/images/erp_", ctx_r8.layout, "/item/", item_r6.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://esal.api.alleshub.com.br/images/erp_", ctx_r8.layout, "/item/", item_r6.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate"]("alt", item_r6.item_linkWeb.linkWeb.titulo);
       }
@@ -10586,7 +10586,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵadvance"](6);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://erpapi.esal.com.br/images/erp_", ctx_r3.layout, "/item/", item_r13.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate2"]("src", "https://esal.api.alleshub.com.br/images/erp_", ctx_r3.layout, "/item/", item_r13.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵpropertyInterpolate"]("alt", item_r13.item_linkWeb.linkWeb.titulo);
 
@@ -13167,16 +13167,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             if (this.formGeral.value.periodo === '13') {
               // if (calendarDate.getDate() !== 21 && calendarDate.getDay() !== 0) {
-              if (calendarDate.getDay() !== 0) {
+              if (calendarDate.getDay() !== 0 && calendarDate.getDate() !== 31 && calendarDate.getDate() !== 1) {
                 this.errors.push('Período de "Domingos e Feriados" só pode ser escolhido nos domingos ou feriados');
               }
-            } // if (calendarDate.getDate() === 3 && calendarDate.getMonth() === 5 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
-            //   this.errors.push('Favor escolher o período "Domingos e Feriados (9h as 14h)" para o dia 03/06.');
-            // }
+            }
 
+            if (calendarDate.getDate() === 31 && calendarDate.getMonth() === 11 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
+              this.errors.push('Favor escolher o período "Domingos e Feriados (9h as 14h)" para o dia 31/12.');
+            }
 
             if (calendarDate.getDay() === 0 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
               this.errors.push('Para entrega aos domingos, favor escolher o período de entrega "Domingos e Feriados (9h as 14h)".');
+            }
+
+            if (calendarDate.getDay() === 6) {
+              this.errors.push('A Esalflores não estará realizando entregas dia 01/01/2022, favor escolher uma data posterior.');
             }
 
             if (calendarDate < today) {
@@ -14021,7 +14026,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", item_r21.item_linkWeb.linkWeb.titulo);
 
@@ -14047,7 +14052,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", item_r21.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", item_r21.item_linkWeb.linkWeb.titulo);
 
@@ -21103,7 +21108,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("src", "https://erpapi.esal.com.br/images/erp_", ctx_r10.layout, "/item/", item_r25.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("src", "https://esal.api.alleshub.com.br/images/erp_", ctx_r10.layout, "/item/", item_r25.fotos[0], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", item_r25.descricao);
 
@@ -23684,13 +23689,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r13 + 1, "");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r12.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r13 + 1, "");
       }
@@ -23812,13 +23817,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r21 + 1, "");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", banner_r20.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r21 + 1, "");
       }
@@ -24451,7 +24456,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalflores/empWeb/banners/", ctx_r7.store.layout == null ? null : ctx_r7.store.layout.emp == null ? null : ctx_r7.store.layout.emp.empWeb == null ? null : ctx_r7.store.layout.emp.empWeb.banners == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0] == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0].file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/empWeb/banners/", ctx_r7.store.layout == null ? null : ctx_r7.store.layout.emp == null ? null : ctx_r7.store.layout.emp.empWeb == null ? null : ctx_r7.store.layout.emp.empWeb.banners == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0] == null ? null : ctx_r7.store.layout.emp.empWeb.banners.homeSec[0].file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
       }
     }
 
@@ -25982,13 +25987,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r80 + 1, "");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r79.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r80 + 1, "");
       }
@@ -26110,13 +26115,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r88 + 1, "");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erp.api.esal.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/empWeb/banners/", banner_r87.file, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("alt", "Banner principal ", i_r88 + 1, "");
       }
@@ -36935,7 +36940,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           var ctx_r13 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4);
 
-          return ctx_r13.openMdImage("https://erpapi.esal.com.br/images/erp_esalflores/item/" + ctx_r13.item.fotos[ctx_r13.fotoAtual] + ".jpg");
+          return ctx_r13.openMdImage("https://esal.api.alleshub.com.br/images/erp_esalflores/item/" + ctx_r13.item.fotos[ctx_r13.fotoAtual] + ".jpg");
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 34);
@@ -36950,7 +36955,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", ctx_r6.item.fotos[ctx_r6.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", ctx_r6.item.fotos[ctx_r6.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r6.item.item_linkWeb == null ? null : ctx_r6.item.item_linkWeb.linkWeb.titulo);
       }
@@ -36987,7 +36992,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalflores/item/", foto_r15, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalflores/item/", foto_r15, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "Foto n\xFAmero ", i_r16 + 1, " do item: ", ctx_r17.item.item_linkWeb == null ? null : ctx_r17.item.item_linkWeb.linkWeb.titulo, "");
       }
@@ -37466,7 +37471,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           var ctx_r36 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](4);
 
-          return ctx_r36.openMdImage("https://erpapi.esal.com.br/images/erp_esalpet/item/" + ctx_r36.item.fotos[ctx_r36.fotoAtual] + ".jpg");
+          return ctx_r36.openMdImage("https://esal.api.alleshub.com.br/images/erp_esalpet/item/" + ctx_r36.item.fotos[ctx_r36.fotoAtual] + ".jpg");
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 34);
@@ -37481,7 +37486,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", ctx_r29.item.fotos[ctx_r29.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", ctx_r29.item.fotos[ctx_r29.fotoAtual], ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("alt", ctx_r29.item.item_linkWeb == null ? null : ctx_r29.item.item_linkWeb.linkWeb.titulo);
       }
@@ -37518,7 +37523,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://erpapi.esal.com.br/images/erp_esalpet/item/", foto_r38, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "https://esal.api.alleshub.com.br/images/erp_esalpet/item/", foto_r38, ".jpg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "Foto n\xFAmero ", i_r39 + 1, " do item: ", ctx_r40.item.item_linkWeb == null ? null : ctx_r40.item.item_linkWeb.linkWeb.titulo, "");
       }
@@ -42006,9 +42011,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     });
 
     var environment = {
-      API_URL: 'https://erpapi.esal.com.br/api_flores/',
+      API_URL: 'https://esal.api.alleshub.com.br/api_flores/',
       // API_URL: 'http://localhost/esal-erp-backend/public/api_flores/',
-      IMG_URL: 'https://erpapi.esal.com.br/images/erp_esalflores/',
+      IMG_URL: 'https://esal.api.alleshub.com.br/images/erp_esalflores/',
       production: true,
       layout: 'esalflores',
       recaptchaToken: '6LfkKGMaAAAAAE-MijiQuVm5VKnQZf64WetLJOFD',
@@ -42041,9 +42046,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 
     var environment = {
-      API_URL: 'https://erpapi.esal.com.br/api_flores/',
+      API_URL: 'https://esal.api.alleshub.com.br/api_flores/',
       // API_URL: 'http://localhost/esal-erp-backend/public/api_flores/',
-      IMG_URL: 'https://erpapi.esal.com.br/images/erp_esalflores/',
+      IMG_URL: 'https://esal.api.alleshub.com.br/images/erp_esalflores/',
       production: false,
       layout: 'esalflores',
       recaptchaToken: '6LfkKGMaAAAAAE-MijiQuVm5VKnQZf64WetLJOFD',

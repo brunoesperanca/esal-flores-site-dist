@@ -5885,18 +5885,12 @@ class EntregaComponent {
             const today = new Date();
             if (this.formGeral.value.periodo === '13') {
                 // if (calendarDate.getDate() !== 21 && calendarDate.getDay() !== 0) {
-                if (calendarDate.getDay() !== 0 && calendarDate.getDate() !== 31 && calendarDate.getDate() !== 1) {
+                if (calendarDate.getDay() !== 0) {
                     this.errors.push('Período de "Domingos e Feriados" só pode ser escolhido nos domingos ou feriados');
                 }
             }
-            if (calendarDate.getDate() === 31 && calendarDate.getMonth() === 11 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
-                this.errors.push('Favor escolher o período "Domingos e Feriados (9h as 14h)" para o dia 31/12.');
-            }
             if (calendarDate.getDay() === 0 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
                 this.errors.push('Para entrega aos domingos, favor escolher o período de entrega "Domingos e Feriados (9h as 14h)".');
-            }
-            if (calendarDate.getDay() === 6) {
-                this.errors.push('A Esalflores não estará realizando entregas dia 01/01/2022, favor escolher uma data posterior.');
             }
             if (calendarDate < today) {
                 this.errors.push('Data selecionada precisa ser maior que a atual.');
@@ -20149,7 +20143,7 @@ document.addEventListener('DOMContentLoaded', () => {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/esallabs/Documents/esal-flores-site-front/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/esallabs/esal-flores-site-front/src/main.ts */"./src/main.ts");
 
 
 /***/ })

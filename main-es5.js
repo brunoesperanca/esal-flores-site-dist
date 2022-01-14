@@ -4970,81 +4970,59 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](165, "div", 64);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](166, "img", 65);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](166, "small");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_div_0_Template_img_click_166_listener() {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](167, "b");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](168, "Powered by");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](169, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](170, "a", 65);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](171, "img", 66);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](172, "div", 67);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](173, "p", 68);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](174, "ESALFLORES COM\xC9RCIO DE FLORES LTDA CNPJ: 01.562.299/0001-30");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](175, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](176, " Rua Vinte e Quatro de Maio, 1839 \u2013 Rebou\xE7as \u2013 Curitiba \u2013 PR \u2013 CEP 80220-060");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](177, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](178, " Fone (41)3091-0403 - esalflores@esalflores.com.br ");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](179, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](180, " Copyright\xA9 2022 - TODOS OS DIREITOS RESERVADOS ");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](181, "div", 69);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](182, "img", 70);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_div_0_Template_img_click_182_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r3);
 
           var ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
           return ctx_r6.scrollTop();
         });
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](167, "div", 66);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](168, "small");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](169, "b");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](170, "Powered by");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](171, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](172, "a", 67);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](173, "img", 68);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](174, "div", 69);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](175, "p", 70);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](176, "ESALFLORES COM\xC9RCIO DE FLORES LTDA CNPJ: 01.562.299/0001-30");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](177, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](178, " Rua Vinte e Quatro de Maio, 1839 \u2013 Rebou\xE7as \u2013 Curitiba \u2013 PR \u2013 CEP 80220-060");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](179, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](180, " Fone (41)3091-0403 - esalflores@esalflores.com.br ");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](181, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](182, " Copyright\xA9 2022 - TODOS OS DIREITOS RESERVADOS ");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](183, "div", 71);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](184, "small");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "b");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](186, "Powered by");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](187, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](188, "a", 67);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](189, "img", 72);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -5156,7 +5134,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "section", 73);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "section", 71);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
 
@@ -5164,11 +5142,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 4);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "form", 74);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "form", 72);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 75);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 73);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "h3", 76);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "h3", 74);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "News");
 
@@ -5182,29 +5160,29 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 77);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 75);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "img", 78);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "img", 76);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "img", 79);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "img", 77);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 14);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "input", 80);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "input", 78);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 14);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "input", 81);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "input", 79);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 17);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "button", 82);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "button", 80);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "Enviar ");
 
@@ -5222,7 +5200,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "footer", 83);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "footer", 81);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 2);
 
@@ -5344,19 +5322,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div", 33);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "a", 84);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "a", 82);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "i", 35);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "a", 85);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "a", 83);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](67, "i", 37);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "a", 86);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "a", 84);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_div_1_Template_a_click_68_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r8);
@@ -5396,19 +5374,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "p");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](77, "i", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](77, "i", 85);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, " (41) 3091-0400 ");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "br");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "i", 88);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "i", 86);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, " (41) 3091-0400 ");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](82, "br");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](83, "i", 89);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](83, "i", 87);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](84, " pet@esalpet.com.br ");
 
@@ -5416,19 +5394,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 33);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "a", 84);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "a", 82);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](87, "i", 35);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "a", 85);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "a", 83);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](89, "i", 37);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "a", 86);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "a", 84);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_div_1_Template_a_click_90_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r8);
@@ -5598,7 +5576,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](137, "li");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](138, "a", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](138, "a", 88);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](139, " C\xE3es ");
 
@@ -5608,7 +5586,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](140, "li");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "a", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "a", 88);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](142, " Gatos ");
 
@@ -5618,7 +5596,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](143, "li");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](144, "a", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](144, "a", 88);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](145, " Casa e Jardim ");
 
@@ -5628,7 +5606,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](146, "li");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](147, "a", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](147, "a", 88);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](148, " Farm\xE1cia ");
 
@@ -5638,7 +5616,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "li");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](150, "a", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](150, "a", 88);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](151, " Pet Lovers ");
 
@@ -5730,81 +5708,59 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](175, "div", 64);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](176, "img", 91);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](176, "small");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_div_1_Template_img_click_176_listener() {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](177, "b");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](178, "Powered by");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](179, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](180, "a", 65);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](181, "img", 66);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](182, "div", 67);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](183, "p", 68);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](184, "Esalpet | Pet Shop");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](185, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](186, " CNPJ 11.812.498/0001-03");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](187, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](188, " Rua Vinte e Quatro de Maio, 1875 - Rebou\xE7as - Curitiba - PR - CEP 80220-060 ");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](189, "br");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](190, " Copyright\xA9 2022 - TODOS OS DIREITOS RESERVADOS ");
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](191, "div", 69);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](192, "img", 89);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_div_1_Template_img_click_192_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r8);
 
           var ctx_r10 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
           return ctx_r10.scrollTop();
         });
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](177, "div", 66);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](178, "small");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](179, "b");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](180, "Powered by");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](181, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](182, "a", 67);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](183, "img", 68);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](184, "div", 69);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "p", 70);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](186, "Esalpet | Pet Shop");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](187, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](188, " CNPJ 11.812.498/0001-03");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](189, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](190, " Rua Vinte e Quatro de Maio, 1875 - Rebou\xE7as - Curitiba - PR - CEP 80220-060 ");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](191, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](192, " Copyright\xA9 2022 - TODOS OS DIREITOS RESERVADOS ");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](193, "div", 71);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](194, "small");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](195, "b");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](196, "Powered by");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](197, "br");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](198, "a", 67);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](199, "img", 72);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -5966,12 +5922,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-footer"]],
       decls: 2,
       vars: 2,
-      consts: [[4, "ngIf"], [1, "section-subscribe", "bg-pattern1", "padding-y-sm", "deskonly"], [1, "container"], [1, "row", "justify-content-md-center"], [1, "col-lg-12"], ["action", "https://paginas.rocks/capture", "method", "post", 1, "row-sm", "form-noborder"], [1, "col-md-5"], [1, "white", "nomargin"], [1, "white"], ["id", "id", "name", "id", "type", "hidden", "value", "548086"], ["id", "mid", "name", "mid", "type", "hidden", "value", "548086"], ["id", "pid", "name", "pid", "type", "hidden", "value", "18865236"], ["id", "list_id", "name", "list_id", "type", "hidden", "value", "548086"], ["id", "provider", "name", "provider", "type", "hidden", "value", "leadlovers"], [1, "col-md-3", "mt-3"], ["id", "name", "name", "name", "placeholder", "Nome", "type", "text", 1, "form-control", "form-ll"], ["id", "email", "name", "email", "placeholder", "Email", "type", "text", 1, "form-control", "form-ll"], [1, "col-md-1", "mt-3"], ["type", "submit", 1, "btn", "btn-block", "btn-success", 3, "click"], ["type", "hidden", "id", "source", "name", "source", "value", ""], ["src", "https://llimages.com/redirect/redirect.aspx?A=V&p=18865236&m=548086", 2, "display", "none"], [1, "section-footer", "bg-2"], [1, "cellonly"], [1, "container", "text-center"], [1, "col-12"], [1, "dropdown"], ["type", "button", "id", "dropdownMenuButton1", "data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", 1, "btn", "btn-default", "btn-block", "dropdown-toggle"], ["aria-labelledby", "dropdownMenuButton1", 1, "dropdown-menu"], [1, "dropdown-item", 3, "routerLink"], [1, "dropdown-item", 3, "routerLink", "fragment"], ["type", "button", "id", "dropdownMenuButton2", "data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", 1, "btn", "btn-default", "btn-block", "dropdown-toggle"], ["aria-labelledby", "dropdownMenuButton2", 1, "dropdown-menu"], [1, "col-12", "text-center"], [1, "btn-group", "pb-4"], ["target", "_blank", "rel", "noopener noreferrer", "title", "Facebook", "target", "_blank", "href", "https://www.facebook.com/Esalflores", 1, "btn", "btn-facebook"], [1, "fab", "fa-facebook-f", "fa-fw"], ["title", "Instagram", "href", "http://instagram.com/esalflores", "target", "_blank", "rel", "noopener noreferrer", 1, "btn", "btn-instagram"], [1, "fab", "fa-instagram", "fa-fw"], ["title", "Youtube", "target", "_blank", "href", "https://www.youtube.com/user/portalesal?feature=watch", 1, "btn", "btn-youtube"], [1, "fab", "fa-youtube", "fa-fw"], ["title", "+55 41 3091-0403", 1, "btn", "btn-whatsapp", 2, "cursor", "pointer", 3, "click"], [1, "fab", "fa-whatsapp", "fa-fw"], [1, "footer-top", "padding-top", "deskonly"], [1, "row"], [1, "col-sm-3"], [1, ""], [1, "title"], [1, "col-sm-3", "col-md-3"], [1, "list-unstyled"], [3, "routerLink"], [3, "routerLink", "fragment"], ["src", "assets/images/selos.PNG", "alt", "Selo Socio Ambiental", 1, "img", "img-fluid"], [1, "footer-bottom", "row", "fundo-cinza"], [1, "col-md-6"], [1, "list-group", "list-group-horizontal"], [1, "list-group-item", "deskonly"], [1, "list-group-item"], ["src", "assets/images/faixa_pagamentos.png", "alt", "Faixa forma de pagamento (Cart\xE3o de cr\xE9dito, Pix, PayPal, PicPay)", 1, "img", "img-fluid"], [1, "col-md-6", "deskonly"], ["src", "assets\\images\\selos\\ssl.png", "alt", "Selo SSL", 1, "img", "img-fluid"], ["src", "assets\\images\\selos\\google-safe.png", "alt", "Selo GoogleSafe", 1, "img", "img-fluid"], ["src", "assets\\images\\selos\\trustvox.png", "alt", "Selo Trustvox", 1, "img", "img-fluid"], ["src", "assets\\images\\selos\\ebit.png", "alt", "Selo Ebit", 1, "img", "img-fluid"], [1, "footer-bottom", "row", "border-top-black"], [1, "col-md-2", "deskonly", 2, "padding-top", "20px"], ["src", "assets/images/logos/esalflores.png", "alt", "Logo Esalflores", 1, "img", "img-fluid", 2, "cursor", "pointer", 3, "click"], [1, "col-md-8", "cellonly", "text-center"], ["href", "https://alleshub.com.br/", "target", "_blank"], ["src", "assets\\images\\logos\\alles-logo.png", "alt", "Powered by Esallabs", 1, "img", "img-fluid", 2, "max-width", "150px", "padding", "0 10px 10px 10px"], [1, "col-md-8", "text-center"], [1, "small"], [1, "col-md-2", "deskonly"], ["src", "assets\\images\\logos\\alles-logo.png", "alt", "Powered by Esallabs", 1, "img", "img-fluid", 2, "max-width", "150px"], [1, "section-subscribe", "fundo-laranja", "padding-y-sm", "margin-top-md", "deskonly"], [1, "row-sm", "form-noborder"], [1, "col-md-3"], [1, "white", "nomargin", "fonte-news"], [1, "col-md-2", "st-mascote"], ["src", "assets\\images\\icons\\bot_news01.png", 1, "st-mascote-news"], ["src", "assets\\images\\icons\\bot_newsmascote.png", "alt", "", 1, "img", "img-fluid"], ["placeholder", "Nome", "type", "text", 1, "form-control"], ["placeholder", "Email", "type", "email", 1, "form-control"], ["type", "submit", 1, "btn", "btn-block", "btn-info"], [1, "section-footer", "fundo-azul"], ["target", "_blank", "rel", "noopener noreferrer", "title", "Facebook", "target", "_blank", "href", "https://pt-br.facebook.com/Esalpet/", 1, "btn", "btn-facebook"], ["title", "Instagram", "href", "https://www.instagram.com/esalpet/", "target", "_blank", "rel", "noopener noreferrer", 1, "btn", "btn-instagram"], ["title", "+55 41 3091-0400", 1, "btn", "btn-whatsapp", 2, "cursor", "pointer", 3, "click"], [1, "fas", "fa-phone-volume"], [1, "fab", "fa-whatsapp"], [1, "fas", "fa-at"], ["href", ""], ["src", "assets/images/logos/esalpet.png", "alt", "Logo Esalpet", 1, "img", "img-fluid", 2, "cursor", "pointer", 3, "click"]],
+      consts: [[4, "ngIf"], [1, "section-subscribe", "bg-pattern1", "padding-y-sm", "deskonly"], [1, "container"], [1, "row", "justify-content-md-center"], [1, "col-lg-12"], ["action", "https://paginas.rocks/capture", "method", "post", 1, "row-sm", "form-noborder"], [1, "col-md-5"], [1, "white", "nomargin"], [1, "white"], ["id", "id", "name", "id", "type", "hidden", "value", "548086"], ["id", "mid", "name", "mid", "type", "hidden", "value", "548086"], ["id", "pid", "name", "pid", "type", "hidden", "value", "18865236"], ["id", "list_id", "name", "list_id", "type", "hidden", "value", "548086"], ["id", "provider", "name", "provider", "type", "hidden", "value", "leadlovers"], [1, "col-md-3", "mt-3"], ["id", "name", "name", "name", "placeholder", "Nome", "type", "text", 1, "form-control", "form-ll"], ["id", "email", "name", "email", "placeholder", "Email", "type", "text", 1, "form-control", "form-ll"], [1, "col-md-1", "mt-3"], ["type", "submit", 1, "btn", "btn-block", "btn-success", 3, "click"], ["type", "hidden", "id", "source", "name", "source", "value", ""], ["src", "https://llimages.com/redirect/redirect.aspx?A=V&p=18865236&m=548086", 2, "display", "none"], [1, "section-footer", "bg-2"], [1, "cellonly"], [1, "container", "text-center"], [1, "col-12"], [1, "dropdown"], ["type", "button", "id", "dropdownMenuButton1", "data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", 1, "btn", "btn-default", "btn-block", "dropdown-toggle"], ["aria-labelledby", "dropdownMenuButton1", 1, "dropdown-menu"], [1, "dropdown-item", 3, "routerLink"], [1, "dropdown-item", 3, "routerLink", "fragment"], ["type", "button", "id", "dropdownMenuButton2", "data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", 1, "btn", "btn-default", "btn-block", "dropdown-toggle"], ["aria-labelledby", "dropdownMenuButton2", 1, "dropdown-menu"], [1, "col-12", "text-center"], [1, "btn-group", "pb-4"], ["target", "_blank", "rel", "noopener noreferrer", "title", "Facebook", "target", "_blank", "href", "https://www.facebook.com/Esalflores", 1, "btn", "btn-facebook"], [1, "fab", "fa-facebook-f", "fa-fw"], ["title", "Instagram", "href", "http://instagram.com/esalflores", "target", "_blank", "rel", "noopener noreferrer", 1, "btn", "btn-instagram"], [1, "fab", "fa-instagram", "fa-fw"], ["title", "Youtube", "target", "_blank", "href", "https://www.youtube.com/user/portalesal?feature=watch", 1, "btn", "btn-youtube"], [1, "fab", "fa-youtube", "fa-fw"], ["title", "+55 41 3091-0403", 1, "btn", "btn-whatsapp", 2, "cursor", "pointer", 3, "click"], [1, "fab", "fa-whatsapp", "fa-fw"], [1, "footer-top", "padding-top", "deskonly"], [1, "row"], [1, "col-sm-3"], [1, ""], [1, "title"], [1, "col-sm-3", "col-md-3"], [1, "list-unstyled"], [3, "routerLink"], [3, "routerLink", "fragment"], ["src", "assets/images/selos.PNG", "alt", "Selo Socio Ambiental", 1, "img", "img-fluid"], [1, "footer-bottom", "row", "fundo-cinza"], [1, "col-md-6"], [1, "list-group", "list-group-horizontal"], [1, "list-group-item", "deskonly"], [1, "list-group-item"], ["src", "assets/images/faixa_pagamentos.png", "alt", "Faixa forma de pagamento (Cart\xE3o de cr\xE9dito, Pix, PayPal, PicPay)", 1, "img", "img-fluid"], [1, "col-md-6", "deskonly"], ["src", "assets\\images\\selos\\ssl.png", "alt", "Selo SSL", 1, "img", "img-fluid"], ["src", "assets\\images\\selos\\google-safe.png", "alt", "Selo GoogleSafe", 1, "img", "img-fluid"], ["src", "assets\\images\\selos\\trustvox.png", "alt", "Selo Trustvox", 1, "img", "img-fluid"], ["src", "assets\\images\\selos\\ebit.png", "alt", "Selo Ebit", 1, "img", "img-fluid"], [1, "footer-bottom", "row", "border-top-black"], [1, "col-md-2", "deskonly"], ["href", "https://alleshub.com.br/", "target", "_blank"], ["src", "assets\\images\\logos\\alles-logo.png", "alt", "Powered by Esallabs", 1, "img", "img-fluid", 2, "max-width", "150px"], [1, "col-md-8", "text-center"], [1, "small"], [1, "col-md-2", "deskonly", 2, "padding-top", "20px"], ["src", "assets/images/logos/esalflores.png", "alt", "Logo Esalflores", 1, "img", "img-fluid", 2, "cursor", "pointer", 3, "click"], [1, "section-subscribe", "fundo-laranja", "padding-y-sm", "margin-top-md", "deskonly"], [1, "row-sm", "form-noborder"], [1, "col-md-3"], [1, "white", "nomargin", "fonte-news"], [1, "col-md-2", "st-mascote"], ["src", "assets\\images\\icons\\bot_news01.png", 1, "st-mascote-news"], ["src", "assets\\images\\icons\\bot_newsmascote.png", "alt", "", 1, "img", "img-fluid"], ["placeholder", "Nome", "type", "text", 1, "form-control"], ["placeholder", "Email", "type", "email", 1, "form-control"], ["type", "submit", 1, "btn", "btn-block", "btn-info"], [1, "section-footer", "fundo-azul"], ["target", "_blank", "rel", "noopener noreferrer", "title", "Facebook", "target", "_blank", "href", "https://pt-br.facebook.com/Esalpet/", 1, "btn", "btn-facebook"], ["title", "Instagram", "href", "https://www.instagram.com/esalpet/", "target", "_blank", "rel", "noopener noreferrer", 1, "btn", "btn-instagram"], ["title", "+55 41 3091-0400", 1, "btn", "btn-whatsapp", 2, "cursor", "pointer", 3, "click"], [1, "fas", "fa-phone-volume"], [1, "fab", "fa-whatsapp"], [1, "fas", "fa-at"], ["href", ""], ["src", "assets/images/logos/esalpet.png", "alt", "Logo Esalpet", 1, "img", "img-fluid", 2, "cursor", "pointer", 3, "click"]],
       template: function FooterComponent_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](0, FooterComponent_div_0_Template, 190, 54, "div", 0);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](0, FooterComponent_div_0_Template, 183, 54, "div", 0);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, FooterComponent_div_1_Template, 200, 54, "div", 0);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, FooterComponent_div_1_Template, 193, 54, "div", 0);
         }
 
         if (rf & 2) {

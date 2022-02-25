@@ -104,32 +104,32 @@ const routes = [
             { path: 'produto/:slug', component: _pages_produto_produto_component__WEBPACK_IMPORTED_MODULE_6__["ProdutoComponent"] },
             { path: 'cliente', canActivate: [_services_auth_guard__WEBPACK_IMPORTED_MODULE_7__["AuthGuard"]],
                 children: [
-                    { path: 'cadastro', component: _pages_cliente_cadastro_cadastro_component__WEBPACK_IMPORTED_MODULE_3__["CadastroComponent"] },
-                    { path: 'minha-conta', component: _pages_cliente_minha_conta_minha_conta_component__WEBPACK_IMPORTED_MODULE_8__["MinhaContaComponent"] },
-                    { path: 'enderecos', component: _pages_cliente_enderecos_enderecos_component__WEBPACK_IMPORTED_MODULE_9__["EnderecosComponent"] },
-                    { path: 'pedidos', component: _pages_cliente_pedidos_pedidos_component__WEBPACK_IMPORTED_MODULE_10__["PedidosComponent"] },
-                    { path: 'cursos', component: _pages_cliente_cursos_cursos_component__WEBPACK_IMPORTED_MODULE_11__["CursosComponent"] },
-                    { path: 'listas-desejos', component: _pages_cliente_listas_desejos_listas_desejos_component__WEBPACK_IMPORTED_MODULE_12__["ListasDesejosComponent"] },
-                    { path: 'status-pedido/:id', component: _pages_cliente_status_pedido_status_pedido_component__WEBPACK_IMPORTED_MODULE_14__["StatusPedidoComponent"] }
+                    { path: 'cadastro', component: _pages_cliente_cadastro_cadastro_component__WEBPACK_IMPORTED_MODULE_3__["CadastroComponent"], data: { titulo: 'Cadastro' } },
+                    { path: 'minha-conta', component: _pages_cliente_minha_conta_minha_conta_component__WEBPACK_IMPORTED_MODULE_8__["MinhaContaComponent"], data: { titulo: 'Minha conta' } },
+                    { path: 'enderecos', component: _pages_cliente_enderecos_enderecos_component__WEBPACK_IMPORTED_MODULE_9__["EnderecosComponent"], data: { titulo: 'Endereços' } },
+                    { path: 'pedidos', component: _pages_cliente_pedidos_pedidos_component__WEBPACK_IMPORTED_MODULE_10__["PedidosComponent"], data: { titulo: 'Pedidos' } },
+                    { path: 'cursos', component: _pages_cliente_cursos_cursos_component__WEBPACK_IMPORTED_MODULE_11__["CursosComponent"], data: { titulo: 'Cursos' } },
+                    { path: 'listas-desejos', component: _pages_cliente_listas_desejos_listas_desejos_component__WEBPACK_IMPORTED_MODULE_12__["ListasDesejosComponent"], data: { titulo: 'Lista de desejos' } },
+                    { path: 'status-pedido/:id', component: _pages_cliente_status_pedido_status_pedido_component__WEBPACK_IMPORTED_MODULE_14__["StatusPedidoComponent"], data: { titulo: 'Status do pedido' } }
                 ] },
-            { path: 'carrinho', component: _pages_checkout_carrinho_carrinho_component__WEBPACK_IMPORTED_MODULE_13__["CarrinhoComponent"] },
-            { path: 'carrinho/:id', component: _pages_checkout_carrinho_carrinho_component__WEBPACK_IMPORTED_MODULE_13__["CarrinhoComponent"] },
-            { path: 'login', component: _pages_login_login_component__WEBPACK_IMPORTED_MODULE_5__["LoginComponent"] },
-            { path: 'contato', component: _pages_contato_contato_component__WEBPACK_IMPORTED_MODULE_15__["ContatoComponent"] },
-            { path: 'imprensa', component: _pages_imprensa_imprensa_component__WEBPACK_IMPORTED_MODULE_16__["ImprensaComponent"] },
-            { path: 'quem-somos', component: _pages_quem_somos_quem_somos_component__WEBPACK_IMPORTED_MODULE_17__["QuemSomosComponent"] },
-            { path: 'nossas-lojas', component: _pages_nossas_lojas_nossas_lojas_component__WEBPACK_IMPORTED_MODULE_18__["NossasLojasComponent"] },
-            { path: 'duvidas-frequentes', component: _pages_duvidas_frequentes_duvidas_frequentes_component__WEBPACK_IMPORTED_MODULE_19__["DuvidasFrequentesComponent"] },
-            { path: 'trabalhe-conosco', component: _pages_trabalhe_conosco_trabalhe_conosco_component__WEBPACK_IMPORTED_MODULE_20__["TrabalheConoscoComponent"] },
-            { path: 'newsletter', component: _pages_newsletter_newsletter_component__WEBPACK_IMPORTED_MODULE_21__["NewsletterComponent"] },
-            { path: 'newsletter-redirect', component: _pages_newsletter_redirect_newsletter_redirect_newsletter_component__WEBPACK_IMPORTED_MODULE_29__["RedirectNewsletterComponent"] },
+            { path: 'carrinho', component: _pages_checkout_carrinho_carrinho_component__WEBPACK_IMPORTED_MODULE_13__["CarrinhoComponent"], data: { titulo: 'Carrinho de compras' } },
+            { path: 'carrinho/:id', component: _pages_checkout_carrinho_carrinho_component__WEBPACK_IMPORTED_MODULE_13__["CarrinhoComponent"], data: { titulo: 'Carrinho de compras' } },
+            { path: 'login', component: _pages_login_login_component__WEBPACK_IMPORTED_MODULE_5__["LoginComponent"], data: { titulo: 'Login do cliente' } },
+            { path: 'contato', component: _pages_contato_contato_component__WEBPACK_IMPORTED_MODULE_15__["ContatoComponent"], data: { titulo: 'Contato' } },
+            { path: 'imprensa', component: _pages_imprensa_imprensa_component__WEBPACK_IMPORTED_MODULE_16__["ImprensaComponent"], data: { titulo: 'Imprensa' } },
+            { path: 'quem-somos', component: _pages_quem_somos_quem_somos_component__WEBPACK_IMPORTED_MODULE_17__["QuemSomosComponent"], data: { titulo: 'Quem somos' } },
+            { path: 'nossas-lojas', component: _pages_nossas_lojas_nossas_lojas_component__WEBPACK_IMPORTED_MODULE_18__["NossasLojasComponent"], data: { titulo: 'Horários e Lojas' } },
+            { path: 'duvidas-frequentes', component: _pages_duvidas_frequentes_duvidas_frequentes_component__WEBPACK_IMPORTED_MODULE_19__["DuvidasFrequentesComponent"], data: { titulo: 'Duvidas Frequentes' } },
+            { path: 'trabalhe-conosco', component: _pages_trabalhe_conosco_trabalhe_conosco_component__WEBPACK_IMPORTED_MODULE_20__["TrabalheConoscoComponent"], data: { titulo: 'Trabalhe-conosco !' } },
+            { path: 'newsletter', component: _pages_newsletter_newsletter_component__WEBPACK_IMPORTED_MODULE_21__["NewsletterComponent"], data: { titulo: 'Newsletter' } },
+            { path: 'newsletter-redirect', component: _pages_newsletter_redirect_newsletter_redirect_newsletter_component__WEBPACK_IMPORTED_MODULE_29__["RedirectNewsletterComponent"], data: { titulo: 'Newsletter' } },
             { path: 'lista/:tipo/:termo', component: _pages_lista_lista_component__WEBPACK_IMPORTED_MODULE_22__["ListaComponent"] },
-            { path: 'depoimentos', component: _pages_depoimentos_depoimentos_component__WEBPACK_IMPORTED_MODULE_24__["DepoimentosComponent"] },
-            { path: 'redefinir-senha/:code', component: _pages_redefinir_senha_redefinir_senha_component__WEBPACK_IMPORTED_MODULE_26__["RedefinirSenhaComponent"] },
-            { path: 'order-success', component: _pages_checkout_success_success_component__WEBPACK_IMPORTED_MODULE_27__["SuccessComponent"] }
+            { path: 'depoimentos', component: _pages_depoimentos_depoimentos_component__WEBPACK_IMPORTED_MODULE_24__["DepoimentosComponent"], data: { titulo: 'Depoimentos' } },
+            { path: 'redefinir-senha/:code', component: _pages_redefinir_senha_redefinir_senha_component__WEBPACK_IMPORTED_MODULE_26__["RedefinirSenhaComponent"], data: { titulo: 'Redefinir-senha' } },
+            { path: 'order-success', component: _pages_checkout_success_success_component__WEBPACK_IMPORTED_MODULE_27__["SuccessComponent"], data: { titulo: 'Seu pedido foi concluído !' } }
         ] },
-    { path: 'pagamento', component: _pages_checkout_pagamento_pagamento_component__WEBPACK_IMPORTED_MODULE_23__["PagamentoComponent"] },
-    { path: 'entrega', component: _pages_checkout_entrega_entrega_component__WEBPACK_IMPORTED_MODULE_25__["EntregaComponent"] },
+    { path: 'pagamento', component: _pages_checkout_pagamento_pagamento_component__WEBPACK_IMPORTED_MODULE_23__["PagamentoComponent"], data: { titulo: 'Fechar pedido' } },
+    { path: 'entrega', component: _pages_checkout_entrega_entrega_component__WEBPACK_IMPORTED_MODULE_25__["EntregaComponent"], data: { titulo: 'Entrega do pedido' } },
     { path: '**', redirectTo: '' }
 ];
 class AppRoutingModule {
@@ -161,11 +161,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 /* harmony import */ var src_environments_environment__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/environments/environment */ "./src/environments/environment.ts");
-/* harmony import */ var _services_modal_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./services/modal.service */ "./src/app/services/modal.service.ts");
-/* harmony import */ var _services_user_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./services/user.service */ "./src/app/services/user.service.ts");
-/* harmony import */ var _services_pedido_service__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./services/pedido.service */ "./src/app/services/pedido.service.ts");
-/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+/* harmony import */ var rxjs_operators__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rxjs/operators */ "./node_modules/rxjs/_esm2015/operators/index.js");
+/* harmony import */ var _services_modal_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./services/modal.service */ "./src/app/services/modal.service.ts");
+/* harmony import */ var _services_user_service__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./services/user.service */ "./src/app/services/user.service.ts");
+/* harmony import */ var _services_pedido_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./services/pedido.service */ "./src/app/services/pedido.service.ts");
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+
 
 
 
@@ -222,7 +224,7 @@ function AppComponent_div_1_Template(rf, ctx) { if (rf & 1) {
 } }
 function AppComponent_ng_template_2_Template(rf, ctx) { }
 class AppComponent {
-    constructor(modal, userS, router, pedidoS, titleS) {
+    constructor(modal, userS, router, pedidoS, activatedRoute, titleS) {
         this.modal = modal;
         this.userS = userS;
         this.router = router;
@@ -249,6 +251,16 @@ class AppComponent {
                     page_path: event.urlAfterRedirects
                 });
             }
+            router.events
+                .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["filter"])((event) => event instanceof _angular_router__WEBPACK_IMPORTED_MODULE_1__["NavigationEnd"]))
+                .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(() => activatedRoute))
+                .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])((route) => {
+                while (route.firstChild)
+                    route = route.firstChild;
+                return route;
+            }))
+                .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["switchMap"])((route) => route.data))
+                .subscribe((event) => titleS.setTitle(event['titulo']));
         });
         // recaptcha
         const recaptchaScript = document.createElement('script');
@@ -291,7 +303,7 @@ class AppComponent {
         this.cConsent = true;
     }
 }
-AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_modal_service__WEBPACK_IMPORTED_MODULE_3__["ModalService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_user_service__WEBPACK_IMPORTED_MODULE_4__["UserService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_pedido_service__WEBPACK_IMPORTED_MODULE_5__["PedidoService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_platform_browser__WEBPACK_IMPORTED_MODULE_6__["Title"])); };
+AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_modal_service__WEBPACK_IMPORTED_MODULE_4__["ModalService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_user_service__WEBPACK_IMPORTED_MODULE_5__["UserService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_pedido_service__WEBPACK_IMPORTED_MODULE_6__["PedidoService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_platform_browser__WEBPACK_IMPORTED_MODULE_7__["Title"])); };
 AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], viewQuery: function AppComponent_Query(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵviewQuery"](_c0, true, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ViewContainerRef"]);
     } if (rf & 2) {
@@ -304,7 +316,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !ctx.cConsent && ctx.delay);
-    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterOutlet"], _angular_common__WEBPACK_IMPORTED_MODULE_7__["NgIf"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"]], styles: ["#cookies[_ngcontent-%COMP%] {\n  position: fixed;\n  z-index: 1000;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  padding: 1rem;\n  margin: 2rem;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGFBQUE7RUFDQSxTQUFBO0VBQ0EsT0FBQTtFQUNBLFFBQUE7RUFDQSxhQUFBO0VBQ0EsWUFBQTtBQUNKIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiI2Nvb2tpZXMge1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB6LWluZGV4OiAxMDAwO1xuICAgIGJvdHRvbTogMDtcbiAgICBsZWZ0OiAwO1xuICAgIHJpZ2h0OiAwO1xuICAgIHBhZGRpbmc6IDFyZW07XG4gICAgbWFyZ2luOiAycmVtO1xufSJdfQ== */"] });
+    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterOutlet"], _angular_common__WEBPACK_IMPORTED_MODULE_8__["NgIf"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"]], styles: ["#cookies[_ngcontent-%COMP%] {\n  position: fixed;\n  z-index: 1000;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  padding: 1rem;\n  margin: 2rem;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGFBQUE7RUFDQSxTQUFBO0VBQ0EsT0FBQTtFQUNBLFFBQUE7RUFDQSxhQUFBO0VBQ0EsWUFBQTtBQUNKIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiI2Nvb2tpZXMge1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB6LWluZGV4OiAxMDAwO1xuICAgIGJvdHRvbTogMDtcbiAgICBsZWZ0OiAwO1xuICAgIHJpZ2h0OiAwO1xuICAgIHBhZGRpbmc6IDFyZW07XG4gICAgbWFyZ2luOiAycmVtO1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AppComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -312,7 +324,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
                 templateUrl: './app.component.html',
                 styleUrls: ['./app.component.scss']
             }]
-    }], function () { return [{ type: _services_modal_service__WEBPACK_IMPORTED_MODULE_3__["ModalService"] }, { type: _services_user_service__WEBPACK_IMPORTED_MODULE_4__["UserService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }, { type: _services_pedido_service__WEBPACK_IMPORTED_MODULE_5__["PedidoService"] }, { type: _angular_platform_browser__WEBPACK_IMPORTED_MODULE_6__["Title"] }]; }, { bootstrapModal: [{
+    }], function () { return [{ type: _services_modal_service__WEBPACK_IMPORTED_MODULE_4__["ModalService"] }, { type: _services_user_service__WEBPACK_IMPORTED_MODULE_5__["UserService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }, { type: _services_pedido_service__WEBPACK_IMPORTED_MODULE_6__["PedidoService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"] }, { type: _angular_platform_browser__WEBPACK_IMPORTED_MODULE_7__["Title"] }]; }, { bootstrapModal: [{
             type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ViewChild"],
             args: ['bootstrapModal', { read: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ViewContainerRef"] }]
         }] }); })();
@@ -18262,210 +18274,214 @@ function NossasLojasComponent_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](25, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, " Floricultura e Garden Center ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, " Rua 24 de Maio, 1839 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](29, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, " Rebou\u00E7as - Curitiba - PR ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](31, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "(41) 3091-0403");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "p", 15);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, "Floricultura e Garden Center");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](34, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, " esalflores@esalflores.com.br ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](36, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Hor\u00E1rio de funcionamento: ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "a", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "Dire\u00E7\u00F5es");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, " Rua 24 de Maio, 1839 Rebou\u00E7as - Curitiba - PR ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "a", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "whatsapp");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "p", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, " Fone :(41) 3091-0403");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "a", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](37, "Email");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " esalflores@esalflores.com.br ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Segunda \u00E0 s\u00E1bado das 09h \u00E0s 19h");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, "Segunda \u00E0 s\u00E1bado das 09h \u00E0s 19h");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](42, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Domingos das 09h \u00E0s 14h (delivery)");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 15);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "div", 16);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "span");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, "ESALFLORES DEROSSO");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Domingos das 09h \u00E0s 14h ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](51, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, " ESALFLORES DEROSSO");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](55, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, " Floricultura ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 20);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "div", 21);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, "ESALFLORES DEROSSO");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](53, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](55, " Esalflores Derosso");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](56, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](57, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, " R. Cel. Jos\u00E9 Leal Fontoura, 88 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](59, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](60, " Xaxim, Curitiba - PR ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](61, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, "(41) 3091-0442");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "p", 15);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](60, "Floricultura e Garden Center");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](64, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](65, " esalflores@esalflores.com.br ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](66, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](67, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](68, " Hor\u00E1rio de funcionamento: ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](69, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71, "Seg a S\u00E1b: 9:00 - 19:00");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "a", 22);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](62, "Dire\u00E7\u00F5es");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, " R. Cel. Jos\u00E9 Leal Fontoura, 88 Xaxim, Curitiba - PR ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "a", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](65, "whatsapp");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "p", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, " Fone :(41) 3091-0442");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "a", 23);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](69, "Email");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](70, " xaxim@esallfores.com.br ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](72, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](74, " Dom: 9:00 - 17:00 ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, "Segunda \u00E0 s\u00E1bado das 09h \u00E0s 19h");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "Dom: 9:00 - 17:00");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 17);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "div", 18);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "div", 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "span");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](79, "LOJA UBERABA");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div", 24);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "div", 25);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "div", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "Esalflores Uberaba");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, " LOJA UBERABA");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](84, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](85, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, " Av Sen Salgado Filho, 5532 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](87, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](88, " Uberaba - Curitiba ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](87, " Esalflores Uberaba");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](88, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](89, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](90, " ubebara@esalflores.com.br ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](91, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](92, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](93, " Hor\u00E1rio de funcionamento: ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](94, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](96, "Segunda a s\u00E1bado das 09h \u00E0s 17h20");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](97, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](99, "Domingo Fechado");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "p", 15);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "Floricultura e Garden Center");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "a", 26);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, "Dire\u00E7\u00F5es");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "div", 19);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](101, "div", 20);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "div", 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "span");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](104, "GUARULHOS - SP");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](95, " Av. Sen. Salgado Filho, 5532 - Uberaba, Curitiba - PR ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "a", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](97, "whatsapp");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "p", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](99, " Fone :(41) 3091-0432");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "a", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, "Email");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, " uberaba@esallfores.com.br ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](103, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](104, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](105, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "Segunda \u00E0 s\u00E1bado das 09h \u00E0s 18h");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](108, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](110, "Dom: 9:00 - 14:00");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](106, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, " LOJA GUARULHOS - SP");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](109, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](110, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](111, " guarulhos@esalflores.com.br ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](112, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](113, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](114, " Aeroporto internacional de guarulhos Terminal Internacional 3 (piso t\u00E9rreo) Guarulhos - SP ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](115, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](117, "(11)4063-9155");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "div", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](112, "div", 29);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "div", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](115, "GUARULHOS - SP");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](118, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](119, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](120, " Hor\u00E1rio de funcionamento: ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "div");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](117, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](118, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](119, " Esalflores Guarulhos-SP");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](120, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](121, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](123, "Segunda \u00E0 sabado: 07h \u00E0s 22h");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](124, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](126, "Domingo Fechado");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "p", 15);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "Floricultura");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "a", 30);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](126, "Dire\u00E7\u00F5es");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "div", 21);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](128, "div", 22);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](129, "div", 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "span");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](131, "ESAL BARIGUI - PR");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](127, " Aeroporto internacional de guarulhos Terminal Internacional 3 (piso t\u00E9rreo) Guarulhos - SP ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "a", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "whatsapp");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "p", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](131, " Fone :(41) 3091-0442");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](133, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](135, " PARK SHOPPING BARIGUI - PR");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "a", 31);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](133, "Email");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](134, " guarulhos@esallfores.com.br ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](135, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](136, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](137, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](138, " Loja Esalflores ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](139, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](140, " esalflores@esalflores.com.br ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](141, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](142, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](143, " Rua Prof. PedroViriato Parigot de Souza, 600 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](144, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](145, " Piso T\u00E9rreo - G1 Norte ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](146, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](147, " Bairro Mossungu\u00EA ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](148, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](150, " (41) 3091-0403 ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](138, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](139, "Segunda \u00E0 s\u00E1bado das 06h \u00E0s 22h");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](151, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](140, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](142, "Dom: 6:00 - 20:00");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](143, "div", 32);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](144, "div", 33);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](145, "div", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](146, "span");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](147, "ESAL BARIGUI - PR");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](148, "div");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](149, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](150, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](151, " Esalflores Barigui");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](152, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](153, " Hor\u00E1rio de funcionamento: ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](154, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](153, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](154, "p", 15);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](155, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](156, " Segunda \u00E0 S\u00E1bado: das 09h \u00E0s 22h ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](157, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](158, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](159, " Domingo Fechado ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](156, "Floricultura");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](157, "a", 34);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](158, "Dire\u00E7\u00F5es");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](160, "div", 23);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](161, "div", 24);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](162, "div", 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](163, "span");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](164, "CURITIBA - PR");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](159, " G1 Norte - Rua Prof. PedroViriato Parigot de Souza, 600 Piso T\u00E9rreo - Mossungu\u00EA, Curitiba - PR ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](160, "a", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](161, "whatsapp");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](162, "p", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](163, " Fone :(41) 3091-0422");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](165, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](166, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](167, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](168, " FLOWER MACHINE SHOPPING ESTA\u00C7\u00C3O - PR");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](164, "a", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](165, "Email");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](166, " esalflores@esallfores.com.br ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](167, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](168, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](169, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](170, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](171, " M\u00E1quina de flores ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](172, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](173, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](174, " esalflores@esalflores.com.br ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](175, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](176, " Av. Sete de Setembro, 2775 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](177, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](178, " Rebou\u00E7as, Curitiba - PR ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](179, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](180, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](181, " 3091-0415 ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](170, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](171, "Segunda \u00E0 s\u00E1bado das 10h \u00E0s 22h");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](182, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](183, " 0800-0069456 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](184, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](185, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](186, " Hor\u00E1rio de funcionamento: ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](187, "br");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](188, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](189, " Todos os dias aberto 24h ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](172, "br");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](173, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](174, "Dom: 12:00 - 20:00");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -18500,8 +18516,8 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "hr", 10);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 11);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 25);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "div", 26);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 35);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "div", 36);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "div", 14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "span");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "ESALPET REBOU\u00C7AS");
@@ -18520,18 +18536,18 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](29, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "hr");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "i", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, " (41) 3091-0400");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](34, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](36, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](36, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](37, " Segunda a S\u00E1bado");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " das 08:00h \u00E0s 19:00h ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, " Domingos e Feriados*");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " das 09:00h \u00E0s 14:00h ");
@@ -18540,8 +18556,8 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, " *Consulte calend\u00E1rio de atendimento aos feriados na loja. ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 29);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "div", 30);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 39);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "div", 40);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "span");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, "ESALPET DEROSSO");
@@ -18560,18 +18576,18 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](61, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](62, "hr");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](64, "i", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](64, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](65, " (41) 3091-0420");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](66, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](69, " Segunda a S\u00E1bado");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](70, " das 09:00h \u00E0s 19:00h ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](74, " Domingos e Feriados*");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, " das 09:00h \u00E0s 18:00h ");
@@ -18580,8 +18596,8 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, " *Os hor\u00E1rios podem variar em decorr\u00EAncia de novos decretos. ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div", 31);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "div", 32);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div", 41);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "div", 42);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "div", 14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "span");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "ESALPET - VILA IZABEL");
@@ -18600,12 +18616,12 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](94, "hr");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](96, "i", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](96, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](97, " (41) 3091-0440");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](98, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](100, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](100, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, " Segunda a S\u00E1bado");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, " das 08:00h \u00E0s 19:00h ");
@@ -18614,8 +18630,8 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](105, " *Consulte calend\u00E1rio de atendimento aos feriados na loja. ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "div", 33);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](107, "div", 34);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "div", 43);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](107, "div", 44);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "div", 14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "span");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](110, "ESALPET - UBERABA");
@@ -18634,12 +18650,12 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](120, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](121, "hr");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](123, "i", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](123, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, " (41) 3091-0432");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](125, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](126, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](127, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](127, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](128, " Segunda a S\u00E1bado");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, " das 09:00h \u00E0s 18:00h ");
@@ -18648,8 +18664,8 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](132, " *Consulte calend\u00E1rio de atendimento aos feriados na loja. ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](133, "div", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](134, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](133, "div", 45);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](134, "div", 46);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "div", 14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](136, "span");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](137, "ESALPET - PARKSHOPPING BARIGUI");
@@ -18668,18 +18684,18 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](147, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](148, "hr");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](150, "i", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](150, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](151, " (41) 3091-0421");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](152, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](153, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](154, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](154, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](155, " Segunda a Sexta");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](156, " das 10:00h \u00E0s 22:00h ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](157, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](158, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](159, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](159, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](160, " Domingos e Feriados*");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](161, " das 14:00h \u00E0s 20:00h ");
@@ -18688,8 +18704,8 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](164, " *Consulte calend\u00E1rio de atendimento aos feriados na loja. ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](165, "div", 37);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](166, "div", 38);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](165, "div", 47);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](166, "div", 48);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](167, "div", 14);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](168, "span");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](169, "ESALPET - CENTRO C\u00CDVICO");
@@ -18708,12 +18724,12 @@ function NossasLojasComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](179, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](180, "hr");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](181, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](182, "i", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](182, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](183, " (41) 3091-0446");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](184, "br");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](186, "i", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](186, "i", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](187, " Segunda a S\u00E1bado");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](188, " das 08:00h \u00E0s 19:00h ");
@@ -18734,8 +18750,8 @@ class NossasLojasComponent {
     }
 }
 NossasLojasComponent.ɵfac = function NossasLojasComponent_Factory(t) { return new (t || NossasLojasComponent)(); };
-NossasLojasComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NossasLojasComponent, selectors: [["app-nossas-lojas"]], decls: 2, vars: 2, consts: [[4, "ngIf"], [1, "padding-y-sm", "bg"], [1, "container", "caminho"], ["aria-label", "breadcrumb"], [1, "breadcrumb"], [1, "breadcrumb-item"], [3, "routerLink"], ["aria-current", "page", 1, "breadcrumb-item", "active"], [1, "container", "espaco-tb"], [1, "title"], [1, "hr-title"], [1, "row"], ["id", "megastore", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/matriz.jpeg)"], [1, "span-lojas", "zoom-in"], ["id", "derosso", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/esal-derosso.jpeg)"], ["id", "loja-uberaba", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/uberaba.jpeg)"], ["id", "loja-guarulhos", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/guarulhos.jpeg)"], ["id", "esal-barigui", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/barigui.jpg)"], ["id", "londrina-pr", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/flowermachines/londrina.jpg)"], ["id", "reboucas", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/reboucas.PNG)"], [1, "fas", "fa-phone-volume"], [1, "fas", "fa-store"], ["id", "xaxim", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/pet-xaxim.jpg)"], ["id", "vila-izabel", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/vila-izabel.PNG)"], ["id", "uberaba", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/uberaba.PNG)"], ["id", "barigui", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/barigui.PNG)"], ["id", "centro-civico", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/centro-civico.PNG)"]], template: function NossasLojasComponent_Template(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](0, NossasLojasComponent_div_0_Template, 190, 2, "div", 0);
+NossasLojasComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NossasLojasComponent, selectors: [["app-nossas-lojas"]], decls: 2, vars: 2, consts: [[4, "ngIf"], [1, "padding-y-sm", "bg"], [1, "container", "caminho"], ["aria-label", "breadcrumb"], [1, "breadcrumb"], [1, "breadcrumb-item"], [3, "routerLink"], ["aria-current", "page", 1, "breadcrumb-item", "active"], [1, "container", "espaco-tb"], [1, "title"], [1, "hr-title"], [1, "row"], ["id", "megastore", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/matriz.jpeg)"], [1, "span-lojas", "zoom-in"], [1, "text-center"], ["target", "_blank", "href", "https://www.google.com/maps/place/Esalflores+Floricultura+e+Garden+Center/@-25.4522843,-49.268828,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce48ba339967d:0x63be54b15f6f0788!8m2!3d-25.4522843!4d-49.2666393", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["target", "_blank", "href", "https://api.whatsapp.com/send?phone=554130910403&text=Oi,%20quero%20ajuda%20sobre...", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], [1, "text-left"], ["target", "_blank", "href", "mailto:esalflores@esallfores.com.br", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["id", "derosso", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/esal-derosso.jpeg)"], ["target", "_blank", "href", "https://www.google.com/maps/place/Esalflores+Derosso/@-25.5087877,-49.2649677,17z/data=!3m1!4b1!4m5!3m4!1s0x94dcfb029cc898dd:0x966e46660c1b1657!8m2!3d-25.5087877!4d-49.262779", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["target", "_blank", "href", "mailto:xaxim@esallfores.com.br", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["id", "loja-uberaba", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/uberaba.jpeg)"], ["target", "_blank", "href", "https://www.google.com/maps/uv?pb=!1s0x94dcfabf8fd509ef%3A0xfbc93838278a0146!3m1!7e115!4s%2Fmaps%2Fplace%2Fesalflores%2Buberaba%2F%40-25.4911518%2C-49.2226223%2C3a%2C75y%2C3.87h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s6K5Kguy7m_621AlndEJLVQ*212e0*214m2*213m1*211s0x94dcfabf8fd509ef%3A0xfbc93838278a0146%3Fsa%3DX!5sesalflores%20uberaba%20-%20Pesquisa%20Google!15sCgIgAQ&imagekey=!1e2!2s6K5Kguy7m_621AlndEJLVQ&hl=pt-BR&sa=X&ved=2ahUKEwj0tYmUkZn2AhUlF7kGHXgHC-oQpx96BAhAEAg", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["target", "_blank", "href", "mailto:uberaba@esallfores.com.br", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["id", "loja-guarulhos", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/guarulhos.jpeg)"], ["target", "_blank", "href", "https://www.google.com/maps/place/GRU+Airport/@-23.4305731,-46.473043,15z/data=!4m2!3m1!1s0x0:0x8071626c51a7154a?sa=X&ved=2ahUKEwiswuidkpn2AhWQGbkGHb-mAqoQ_BJ6BAhFEAU", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["target", "_blank", "href", "mailto:guarulhos@esallfores.com.br", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["id", "esal-barigui", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/barigui.jpg)"], ["target", "_blank", "href", "https://www.google.com/maps/place/Esalflores+-+Barigui/@-25.4351398,-49.3167883,15z/data=!4m2!3m1!1s0x0:0xc11abda66f9fd890?sa=X&ved=2ahUKEwis3_2mlZn2AhUfKrkGHe9QACIQ_BJ6BAg1EAM", "role", "button", "aria-pressed", "true", 1, "btn", "btn-success", "btn-sm", "active", "btn-block"], ["id", "reboucas", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/reboucas.PNG)"], [1, "fas", "fa-phone-volume"], [1, "fas", "fa-store"], ["id", "xaxim", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/pet-xaxim.jpg)"], ["id", "vila-izabel", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/vila-izabel.PNG)"], ["id", "uberaba", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/uberaba.PNG)"], ["id", "barigui", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/barigui.PNG)"], ["id", "centro-civico", 1, "col-md-4", "zoom-wrap"], [1, "img-lojas", "zoom-in", 2, "background-image", "url(../../../assets/images/lojas/centro-civico.PNG)"]], template: function NossasLojasComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](0, NossasLojasComponent_div_0_Template, 175, 2, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, NossasLojasComponent_div_1_Template, 189, 2, "div", 0);
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.layout === "esalflores");
@@ -18777,7 +18793,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var src_app_services_trustvox_service__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! src/app/services/trustvox.service */ "./src/app/services/trustvox.service.ts");
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
 /* harmony import */ var src_app_services_googletag_service__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! src/app/services/googletag.service */ "./src/app/services/googletag.service.ts");
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+
 
 
 
@@ -19295,7 +19313,7 @@ function ProdutoComponent_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r1.noItem && !ctx_r1.loading);
 } }
 class ProdutoComponent {
-    constructor(userS, cartS, storeS, activRoute, modalS, router, tvS, http, gTagS) {
+    constructor(userS, cartS, storeS, activRoute, modalS, router, tvS, http, gTagS, titleService) {
         this.userS = userS;
         this.cartS = cartS;
         this.storeS = storeS;
@@ -19305,6 +19323,7 @@ class ProdutoComponent {
         this.tvS = tvS;
         this.http = http;
         this.gTagS = gTagS;
+        this.titleService = titleService;
         this.layout = src_environments_environment__WEBPACK_IMPORTED_MODULE_4__["environment"].layout;
         this.item = undefined;
         this.noItem = true;
@@ -19364,6 +19383,7 @@ class ProdutoComponent {
                     if (!this.item.item_linkWeb) {
                         throw new Error('Item não cadastrado corretamente, verifique a propriedade item_linkWeb');
                     }
+                    this.titleService.setTitle(this.item.descricao);
                     setTimeout(() => {
                         this.setDescricao();
                         // this.tvS.configTrustvox(this.item);
@@ -19401,7 +19421,7 @@ class ProdutoComponent {
         this.fotoAtual = index;
     }
 }
-ProdutoComponent.ɵfac = function ProdutoComponent_Factory(t) { return new (t || ProdutoComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_user_service__WEBPACK_IMPORTED_MODULE_5__["UserService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_cart_service__WEBPACK_IMPORTED_MODULE_6__["CartService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_store_service__WEBPACK_IMPORTED_MODULE_7__["StoreService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_8__["ActivatedRoute"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_modal_service__WEBPACK_IMPORTED_MODULE_9__["ModalService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_8__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_trustvox_service__WEBPACK_IMPORTED_MODULE_10__["TrustvoxService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_common_http__WEBPACK_IMPORTED_MODULE_11__["HttpClient"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_googletag_service__WEBPACK_IMPORTED_MODULE_12__["GoogleAnalyticsService"])); };
+ProdutoComponent.ɵfac = function ProdutoComponent_Factory(t) { return new (t || ProdutoComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_user_service__WEBPACK_IMPORTED_MODULE_5__["UserService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_cart_service__WEBPACK_IMPORTED_MODULE_6__["CartService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_store_service__WEBPACK_IMPORTED_MODULE_7__["StoreService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_8__["ActivatedRoute"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_modal_service__WEBPACK_IMPORTED_MODULE_9__["ModalService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_8__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_trustvox_service__WEBPACK_IMPORTED_MODULE_10__["TrustvoxService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_common_http__WEBPACK_IMPORTED_MODULE_11__["HttpClient"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](src_app_services_googletag_service__WEBPACK_IMPORTED_MODULE_12__["GoogleAnalyticsService"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__["Title"])); };
 ProdutoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProdutoComponent, selectors: [["app-produto"]], decls: 2, vars: 2, consts: [[4, "ngIf"], ["class", "w-100 container d-flex align-items-center justify-content-center", "style", "height: 50vh;", 4, "ngIf"], [1, "container", "div-sem-item", "my-5"], [1, "w-100", "container", "d-flex", "align-items-center", "justify-content-center", 2, "height", "50vh"], ["role", "status", 1, "spinner-grow", 2, "width", "3rem", "height", "3rem"], [1, "sr-only"], [1, "padding-y-sm"], [1, "container", "caminho"], [1, "breadcrumb"], [1, "breadcrumb-item"], ["href", "#"], ["aria-current", "page", 1, "breadcrumb-item", "active"], [1, "container"], ["class", "row", 4, "ngIf"], ["id", "_trustvox_widget"], [1, "row"], [1, "card"], [1, "row", "no-gutters"], [1, "col-sm-5", "border-right"], [1, "gallery-wrap"], [1, "img-big-wrap"], [1, "row", "mx-2"], ["class", "img-small-wrap col mx-1", 4, "ngFor", "ngForOf"], [1, "col-sm-7"], [1, "p-5"], [1, "title", "mb-3", 3, "ngClass"], ["style", "font-size: smaller;", 4, "ngIf"], [1, "mb-3"], [1, "price", "h3", "text-danger"], [1, "num"], ["id", "descricao"], [1, "col-sm-3"], ["class", "col-sm-9", 4, "ngIf"], [3, "click"], [1, "cursor-pointer", "img-fluid", 3, "src", "alt"], [1, "img-small-wrap", "col", "mx-1"], ["class", "item-gallery", 3, "click", 4, "ngIf"], [1, "item-gallery", 3, "click"], [3, "src", "alt"], [2, "font-size", "smaller"], [1, "col-sm-9"], [1, "col-sm-5"], [1, "dlist-inline"], [2, "padding-right", "10px"], ["type", "number", "name", "quantity", "min", "1", 1, "form-control", 3, "max", "value", "change"], [1, "btn", "btn-success", "btn-lg", "text-light", 3, "click"], [1, "fas", "fa-shopping-cart"], [1, "text-muted"], [1, "container", "div-sem-item"], [1, "card", "borda-cinza-produto"], [1, "img-big-wrap", "img-big-wrap-pet"], [1, "title", "title-produto", "mb-3", 3, "ngClass"], [1, "price", "h3", "text-info"], [1, "num", "cor-preco"], [1, "btn", "btn-success", "btn-lg", "btn-laranja", 3, "click"]], template: function ProdutoComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](0, ProdutoComponent_div_0_Template, 5, 3, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, ProdutoComponent_div_1_Template, 5, 3, "div", 0);
@@ -19409,7 +19429,7 @@ ProdutoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.layout === "esalflores");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.layout === "esalpet");
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_13__["NgIf"], _angular_common__WEBPACK_IMPORTED_MODULE_13__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_13__["NgClass"]], pipes: [_angular_common__WEBPACK_IMPORTED_MODULE_13__["CurrencyPipe"]], styles: [".margin-title[_ngcontent-%COMP%] {\n  margin-bottom: 0 !important;\n}\n\n.div-sem-item[_ngcontent-%COMP%] {\n  text-align: center;\n  margin: 50px auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvcHJvZHV0by9wcm9kdXRvLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksMkJBQUE7QUFDSjs7QUFFQTtFQUNJLGtCQUFBO0VBQ0EsaUJBQUE7QUFDSiIsImZpbGUiOiJzcmMvYXBwL3BhZ2VzL3Byb2R1dG8vcHJvZHV0by5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5tYXJnaW4tdGl0bGUge1xuICAgIG1hcmdpbi1ib3R0b206IDAgIWltcG9ydGFudDtcbn1cblxuLmRpdi1zZW0taXRlbSB7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgIG1hcmdpbjogNTBweCBhdXRvO1xufSJdfQ== */"] });
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_14__["NgIf"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgClass"]], pipes: [_angular_common__WEBPACK_IMPORTED_MODULE_14__["CurrencyPipe"]], styles: [".margin-title[_ngcontent-%COMP%] {\n  margin-bottom: 0 !important;\n}\n\n.div-sem-item[_ngcontent-%COMP%] {\n  text-align: center;\n  margin: 50px auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvcHJvZHV0by9wcm9kdXRvLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksMkJBQUE7QUFDSjs7QUFFQTtFQUNJLGtCQUFBO0VBQ0EsaUJBQUE7QUFDSiIsImZpbGUiOiJzcmMvYXBwL3BhZ2VzL3Byb2R1dG8vcHJvZHV0by5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5tYXJnaW4tdGl0bGUge1xuICAgIG1hcmdpbi1ib3R0b206IDAgIWltcG9ydGFudDtcbn1cblxuLmRpdi1zZW0taXRlbSB7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgIG1hcmdpbjogNTBweCBhdXRvO1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ProdutoComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -19417,7 +19437,7 @@ ProdutoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
                 templateUrl: './produto.component.html',
                 styleUrls: ['./produto.component.scss']
             }]
-    }], function () { return [{ type: _services_user_service__WEBPACK_IMPORTED_MODULE_5__["UserService"] }, { type: _services_cart_service__WEBPACK_IMPORTED_MODULE_6__["CartService"] }, { type: src_app_services_store_service__WEBPACK_IMPORTED_MODULE_7__["StoreService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_8__["ActivatedRoute"] }, { type: src_app_services_modal_service__WEBPACK_IMPORTED_MODULE_9__["ModalService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_8__["Router"] }, { type: src_app_services_trustvox_service__WEBPACK_IMPORTED_MODULE_10__["TrustvoxService"] }, { type: _angular_common_http__WEBPACK_IMPORTED_MODULE_11__["HttpClient"] }, { type: src_app_services_googletag_service__WEBPACK_IMPORTED_MODULE_12__["GoogleAnalyticsService"] }]; }, null); })();
+    }], function () { return [{ type: _services_user_service__WEBPACK_IMPORTED_MODULE_5__["UserService"] }, { type: _services_cart_service__WEBPACK_IMPORTED_MODULE_6__["CartService"] }, { type: src_app_services_store_service__WEBPACK_IMPORTED_MODULE_7__["StoreService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_8__["ActivatedRoute"] }, { type: src_app_services_modal_service__WEBPACK_IMPORTED_MODULE_9__["ModalService"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_8__["Router"] }, { type: src_app_services_trustvox_service__WEBPACK_IMPORTED_MODULE_10__["TrustvoxService"] }, { type: _angular_common_http__WEBPACK_IMPORTED_MODULE_11__["HttpClient"] }, { type: src_app_services_googletag_service__WEBPACK_IMPORTED_MODULE_12__["GoogleAnalyticsService"] }, { type: _angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__["Title"] }]; }, null); })();
 
 
 /***/ }),

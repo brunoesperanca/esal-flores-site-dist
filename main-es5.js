@@ -81,13 +81,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -495,13 +495,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -537,13 +537,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "./node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
+    "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     var _c0 = ["bootstrapModal"];
 
@@ -864,25 +864,25 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "./node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
+    "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
     /* harmony import */
 
 
@@ -1092,7 +1092,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(
     /*! @angular/platform-browser/animations */
-    "./node_modules/@angular/platform-browser/fesm2015/animations.js");
+    "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/animations.js");
     /* harmony import */
 
 
@@ -1242,7 +1242,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -1266,7 +1266,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -1290,7 +1290,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function ProdutoBoxComponent_div_0_div_1_li_13_Template(rf, ctx) {
       if (rf & 1) {
@@ -3865,7 +3865,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -3969,13 +3969,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var OwlCarouselDirective = /*#__PURE__*/function () {
       function OwlCarouselDirective(platformId, el, ngZone) {
@@ -4100,13 +4100,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -4336,7 +4336,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -4354,7 +4354,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -4449,7 +4449,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -4473,19 +4473,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/quem-somos"];
@@ -6080,7 +6080,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -6128,7 +6128,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -6164,13 +6164,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
@@ -10231,7 +10231,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -10261,7 +10261,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -10273,7 +10273,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -10303,13 +10303,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
 
     var _c0 = function _c0() {
       return ["/"];
@@ -11781,13 +11781,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_animations__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/animations */
-    "./node_modules/@angular/animations/fesm2015/animations.js");
+    "./node_modules/@angular/animations/__ivy_ngcc__/fesm2015/animations.js");
     /* harmony import */
 
 
@@ -11829,19 +11829,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -11865,7 +11865,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function EntregaComponent_img_2_Template(rf, ctx) {
       if (rf & 1) {
@@ -11879,10 +11879,56 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
     }
 
+    function EntregaComponent_div_62_div_4_Template(rf, ctx) {
+      if (rf & 1) {
+        var _r12 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 39);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "input", 40);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_62_div_4_Template_input_change_1_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r12);
+
+          var metodo_r10 = ctx.$implicit;
+
+          var ctx_r11 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
+
+          return ctx_r11.changeTransporte(metodo_r10);
+        });
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "label", 41);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+      }
+
+      if (rf & 2) {
+        var metodo_r10 = ctx.$implicit;
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("id", "radioEntrega" + metodo_r10.id);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("value", metodo_r10.tipo);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("for", "radioEntrega" + metodo_r10.id);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", metodo_r10.nome, " ");
+      }
+    }
+
     function EntregaComponent_div_62_Template(rf, ctx) {
       if (rf & 1) {
-        var _r10 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
-
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h5");
@@ -11895,87 +11941,45 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 38);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "input", 39);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_62_Template_input_change_5_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r10);
-
-          var ctx_r9 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
-
-          return ctx_r9.changeMetodoEntrega();
-        });
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "label", 40);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, " Entregador Esal (sa\xEDda Curitiba) ");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 38);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "input", 41);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_62_Template_input_change_9_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r10);
-
-          var ctx_r11 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
-
-          return ctx_r11.changeMetodoEntrega();
-        });
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "label", 42);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, " Retirada na Loja (Matriz Rebou\xE7as) ");
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, EntregaComponent_div_62_div_4_Template, 4, 4, "div", 38);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       }
 
       if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("value", true);
+        var ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("value", false);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx_r2.filterTransportes());
       }
     }
 
     function EntregaComponent_div_64_div_4_Template(rf, ctx) {
       if (rf & 1) {
-        var _r15 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+        var _r16 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 39);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "input", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "input", 42);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_64_div_4_Template_input_change_1_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r15);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r16);
 
-          var ctx_r14 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
+          var periodo_r14 = ctx.$implicit;
 
-          return ctx_r14.changePeriodo();
+          var ctx_r15 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
+
+          return ctx_r15.changePeriodo(periodo_r14);
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "label", 45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "label", 41);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span", 43);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5);
 
@@ -11989,27 +11993,27 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
 
       if (rf & 2) {
-        var periodo_r13 = ctx.$implicit;
+        var periodo_r14 = ctx.$implicit;
 
-        var ctx_r12 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("id", "periodo" + periodo_r13.id);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("value", periodo_r13.id);
+        var ctx_r13 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("for", "periodo" + periodo_r13.id);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("id", "periodo" + periodo_r14.id);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("value", periodo_r14.id);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", periodo_r13.periodo, " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("for", "periodo" + periodo_r14.id);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", periodo_r14.periodo, " ");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind2"](6, 5, ctx_r12.formGeral.value.vFrete, "BRL"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind2"](6, 5, ctx_r13.formGeral.value.vFrete, "BRL"));
       }
     }
 
@@ -12027,7 +12031,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, EntregaComponent_div_64_div_4_Template, 7, 8, "div", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, EntregaComponent_div_64_div_4_Template, 7, 8, "div", 38);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       }
@@ -12043,7 +12047,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_66_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 44);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "b");
 
@@ -12067,25 +12071,25 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_67_div_2_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 46);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 47);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "RETIRAR DIRETAMENTE NA LOJA");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 51);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 48);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 49);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 50);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "label", 54);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "label", 51);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "Nome ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "span", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "span", 52);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "*");
 
@@ -12093,21 +12097,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "input", 56);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "input", 53);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 57);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 54);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 50);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "label", 58);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "label", 55);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Sobrenome ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "span", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "span", 52);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "*");
 
@@ -12115,7 +12119,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "input", 59);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "input", 56);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12123,7 +12127,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 60);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 57);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, " Especifique acima o ");
 
@@ -12155,19 +12159,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_67_div_3_Template(rf, ctx) {
       if (rf & 1) {
-        var _r20 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+        var _r21 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 46);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 58);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "label", 62);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "label", 59);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "Nome ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, " * ");
 
@@ -12177,19 +12181,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "input", 65);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "input", 62);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 63);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "label", 67);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "label", 64);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Sobrenome ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "span", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "span", 52);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "*");
 
@@ -12199,9 +12203,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "input", 68);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "input", 65);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12209,13 +12213,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "div", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "div", 63);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "label", 69);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "label", 66);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "CEP ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, " * ");
 
@@ -12225,29 +12229,29 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "input", 70);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "input", 67);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_67_div_3_Template_input_change_23_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r20);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r21);
 
-          var ctx_r19 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
+          var ctx_r20 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
 
-          return ctx_r19.buscarCep(ctx_r19.formGeral.value.entrega_cep);
+          return ctx_r20.buscarCep(ctx_r20.formGeral.value.entrega_cep);
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 58);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "label", 71);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "label", 68);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "Endere\xE7o ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, " * ");
 
@@ -12257,9 +12261,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "input", 72);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "input", 69);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12267,13 +12271,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 63);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "label", 73);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "label", 70);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "N\xBA ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, " * ");
 
@@ -12283,15 +12287,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 74);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 71);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "input", 75);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "input", 72);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 76);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 73);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "label", 77);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "label", 74);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Complemento");
 
@@ -12299,9 +12303,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 78);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 75);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "label", 77);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "label", 74);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Complemento");
 
@@ -12309,19 +12313,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 79);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 76);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "input", 80);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "input", 77);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 63);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "label", 81);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "label", 78);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, "UF ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, " * ");
 
@@ -12331,19 +12335,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 82);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 79);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](53, "input", 83);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](53, "input", 80);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "div", 84);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "div", 81);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "label", 85);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "label", 82);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, "Cidade ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, " * ");
 
@@ -12353,9 +12357,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 79);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 76);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "input", 86);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "input", 83);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12363,13 +12367,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 84);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "label", 88);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "label", 85);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](64, "Bairro ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "span", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "span", 60);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, " * ");
 
@@ -12379,15 +12383,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "input", 89);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "input", 86);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 63);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "label", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "label", 87);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71, "Refer\xEAncia");
 
@@ -12395,9 +12399,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "input", 91);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "input", 88);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12405,13 +12409,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 58);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "label", 92);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "label", 89);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](77, "Telefone ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "span", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "span", 43);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](79, " * ");
 
@@ -12421,15 +12425,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "input", 93);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "input", 90);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "div", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "div", 58);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "label", 94);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "label", 91);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](84, "Telefone2");
 
@@ -12437,19 +12441,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 64);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 61);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](86, "input", 95);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](86, "input", 92);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "div", 96);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "div", 93);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](88, " *Fique por dentro de nossa ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "a", 97);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "a", 94);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](90, "pol\xEDtica de entrega");
 
@@ -12471,7 +12475,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_67_div_5_div_14_div_21_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 118);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 115);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, " A op\xE7\xE3o \"An\xF4nimo\" apenas oculta o autor do cart\xE3o de mensagem. Caso queira ");
 
@@ -12489,41 +12493,41 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_67_div_5_div_14_Template(rf, ctx) {
       if (rf & 1) {
-        var _r24 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+        var _r25 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 104);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 101);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "label", 105);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "label", 102);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "Mensagem");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "textarea", 106);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "textarea", 103);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 107);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 104);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 108);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 105);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "input", 109);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "input", 106);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_67_div_5_div_14_Template_input_change_8_listener($event) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r24);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r25);
 
-          var ctx_r23 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](3);
+          var ctx_r24 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](3);
 
-          return ctx_r23.changeRadioAnonimo($event);
+          return ctx_r24.changeRadioAnonimo($event);
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "label", 110);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "label", 107);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "b");
 
@@ -12537,23 +12541,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 111);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 108);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 112);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 109);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "input", 113);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "input", 110);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("change", function EntregaComponent_div_67_div_5_div_14_Template_input_change_14_listener($event) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r24);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r25);
 
-          var ctx_r25 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](3);
+          var ctx_r26 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](3);
 
-          return ctx_r25.changeRadioAnonimo($event);
+          return ctx_r26.changeRadioAnonimo($event);
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "label", 114);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "label", 111);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "b");
 
@@ -12567,11 +12571,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 112);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "input", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "input", 113);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12579,13 +12583,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](21, EntregaComponent_div_67_div_5_div_14_div_21_Template, 5, 0, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](21, EntregaComponent_div_67_div_5_div_14_div_21_Template, 5, 0, "div", 114);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       }
 
       if (rf & 2) {
-        var ctx_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](3);
+        var ctx_r22 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](3);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("@inOutAnimationMsg", undefined);
 
@@ -12599,11 +12603,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("readOnly", ctx_r21.anonimo);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("readOnly", ctx_r22.anonimo);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r21.formGeral.value.anonimo);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r22.formGeral.value.anonimo);
       }
     }
 
@@ -12623,11 +12627,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 98);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 95);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "input", 99);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "input", 96);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "label", 100);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "label", 97);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, " SIM ");
 
@@ -12635,11 +12639,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 101);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 98);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "input", 102);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "input", 99);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "label", 103);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "label", 100);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " N\xC3O ");
 
@@ -12657,7 +12661,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
 
       if (rf & 2) {
-        var ctx_r18 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
+        var ctx_r19 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
 
@@ -12669,7 +12673,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r18.formGeral.value.cartao);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r19.formGeral.value.cartao);
       }
     }
 
@@ -12679,9 +12683,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "hr");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, EntregaComponent_div_67_div_2_Template, 26, 0, "div", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, EntregaComponent_div_67_div_2_Template, 26, 0, "div", 45);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, EntregaComponent_div_67_div_3_Template, 92, 3, "div", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, EntregaComponent_div_67_div_3_Template, 92, 3, "div", 45);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "hr");
 
@@ -12695,11 +12699,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !ctx_r5.formGeral.value.entregaBool);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r5.formGeral.value.entregaBool === "RETIRA");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r5.formGeral.value.entregaBool);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r5.formGeral.value.entregaBool !== "RETIRA");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
@@ -12709,7 +12713,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_68_p_19_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "p", 131);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "p", 128);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -12717,17 +12721,17 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
 
       if (rf & 2) {
-        var error_r27 = ctx.$implicit;
+        var error_r28 = ctx.$implicit;
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](error_r27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](error_r28);
       }
     }
 
     function EntregaComponent_div_68_Template(rf, ctx) {
       if (rf & 1) {
-        var _r29 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+        var _r30 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
 
@@ -12735,13 +12739,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 16);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 116);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 39);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "input", 120);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "input", 117);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "label", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "label", 118);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "Envie-me um SMS/WhatsApp quando o pedido for entregue (este sistema est\xE1 dispon\xEDvel apenas em Curitiba e Regi\xE3o)");
 
@@ -12749,15 +12753,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 119);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "input", 123);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "input", 120);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "label", 124);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "label", 121);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Ocultar este pedido ap\xF3s entregue e n\xE3o salvar o endere\xE7o no cat\xE1logo. ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "i", 125);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "i", 122);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12765,29 +12769,29 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 126);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 123);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "button", 127);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "button", 124);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function EntregaComponent_div_68_Template_button_click_15_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r30);
 
-          var ctx_r28 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
+          var ctx_r29 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
-          return ctx_r28.goToPagamento();
+          return ctx_r29.goToPagamento();
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "PAGAMENTO ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "i", 128);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "i", 125);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 129);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 126);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](19, EntregaComponent_div_68_p_19_Template, 2, 1, "p", 130);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](19, EntregaComponent_div_68_p_19_Template, 2, 1, "p", 127);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -12811,7 +12815,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_70_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 129);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h4");
 
@@ -12841,7 +12845,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function EntregaComponent_div_71_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 129);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h4");
 
@@ -12849,7 +12853,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "p", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "p", 130);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "(Matriz) 41 3091-0400 (Vila Izabel) 41 3091-0440 (Uberaba) 41 3091-0432 ");
 
@@ -12928,6 +12932,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           this.setupForms();
           src_app_interceptors_erp_interceptor__WEBPACK_IMPORTED_MODULE_2__["ErpInterceptor"].useErpHeader = true;
           this.cartS.getTransportePeriodo(this.storeS.layout.emp.id).subscribe(function (res) {
+            _this19.periodo = res.data || res;
+
             if (res.error) {
               _this19.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                 title: 'Erro ao obter dados do período',
@@ -12939,6 +12945,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _this19.periodos = res.data || res;
           });
+          this.selectTransporte();
         }
       }, {
         key: "setupForms",
@@ -12971,7 +12978,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           });
 
           if (Object.keys(this.cartS.entrega).length > 0 && JSON.parse(localStorage.getItem('cartExpireAt')) > Date.now()) {
-            this.formGeral.patchValue(this.cartS.cart.entrega);
             this.buscarCep(this.formGeral.get('cep').value);
             this.showDivMetodo = this.showDivPeriodo = this.showRest = true;
           } else if (this.activatedRoute.snapshot.data.cep) {
@@ -12981,6 +12987,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             this.buscarCep(this.formGeral.get('cep').value);
           }
 
+          this.formGeral.patchValue(this.cartS.cart.entrega);
           this.formGeral.value.anonimo ? this.anonimo = true : this.anonimo = false;
           this.resFrete = this.formGeral.value.vFrete;
         }
@@ -13043,71 +13050,89 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           }
         }
       }, {
+        key: "selectTransporte",
+        value: function selectTransporte() {
+          var _this21 = this;
+
+          this.cartS.getTransporteMetodo(this.storeS.layout.emp.id).subscribe(function (res) {
+            if (res.error) {
+              _this21.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                title: 'Erro ao obter dados do período',
+                message: 'Recarrega a página e tente novamente ou espere alguns minutos. Se o erro persistir, entre em contato com a nossa equipe.'
+              });
+
+              return;
+            }
+
+            _this21.transporte = res;
+          });
+        }
+      }, {
         key: "getFreteByCep",
         value: function getFreteByCep(cep) {
-          var _this21 = this;
+          var _this22 = this;
 
           src_app_interceptors_erp_interceptor__WEBPACK_IMPORTED_MODULE_2__["ErpInterceptor"].useErpHeader = true;
           this.cartS.getFreteByCep(cep).subscribe(function (res) {
             var _a, _b, _c;
 
-            _this21.loadingCep = false;
+            _this22.loadingCep = false;
 
-            _this21.formGeral.controls.data.enable();
+            _this22.formGeral.controls.data.enable();
 
             if (res.error || ((_a = res.data) === null || _a === void 0 ? void 0 : _a.error)) {
-              _this21.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+              _this22.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                 title: 'Entrega não disponível para essa região.',
                 message: 'Infelizmente não existe entregas disponíveis para região informada. Verifique a região de entrega correta no topo da página inicial do site.'
               });
 
-              _this21.showRest = false;
-              _this21.showDivPeriodo = false;
-              _this21.showDivMetodo = false;
+              _this22.showRest = false;
+              _this22.showDivPeriodo = false;
+              _this22.showDivMetodo = false;
 
-              _this21.formGeral.patchValue({
+              _this22.formGeral.patchValue({
                 vFrete: 0
               });
 
               return;
             }
 
-            _this21.showDivMetodo = true;
+            _this22.showDivMetodo = true;
 
-            if (_this21.formGeral.value.entregaBool) {
-              _this21.showDivPeriodo = true;
-              _this21.showRest = true;
+            if (_this22.formGeral.value.entregaBool) {
+              _this22.showDivPeriodo = true;
+              _this22.showRest = true;
             }
 
-            if (_this21.formGeral.value.entregaBool === false) {
-              _this21.formGeral.patchValue({
+            if (_this22.formGeral.value.entregaBool === false) {
+              _this22.formGeral.patchValue({
                 vFrete: 0
               });
 
-              _this21.resFrete = 0;
-              _this21.showDivPeriodo = true;
-              _this21.showRest = true;
+              _this22.resFrete = 0;
+              _this22.showDivPeriodo = true;
+              _this22.showRest = true;
               return;
             }
 
             if (res.vFreteGratis) {
-              _this21.vFreteGratis = Number(res.vFreteGratis);
+              _this22.vFreteGratis = Number(res.vFreteGratis);
 
-              if (_this21.cartS.cart.valorTotalItems >= res.vFreteGratis) {
-                _this21.formGeral.patchValue({
+              if (_this22.cartS.cart.valorTotalItems >= res.vFreteGratis) {
+                _this22.formGeral.patchValue({
                   vFrete: 0
                 });
 
-                _this21.resFrete = 0;
+                _this22.resFrete = 0;
                 return;
               }
             }
 
-            _this21.formGeral.patchValue({
+            _this22.formGeral.patchValue({
               vFrete: ((_b = res.data) === null || _b === void 0 ? void 0 : _b.vFrete) || res.vFrete
             });
 
-            _this21.resFrete = ((_c = res.data) === null || _c === void 0 ? void 0 : _c.vFrete) || res.vFrete;
+            _this22.resFrete = ((_c = res.data) === null || _c === void 0 ? void 0 : _c.vFrete) || res.vFrete;
           });
         }
       }, {
@@ -13120,47 +13145,42 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       }, {
         key: "changePeriodo",
-        value: function changePeriodo() {
+        value: function changePeriodo(Periodo) {
           this.showRest = true;
+          this.metodoCorte = Periodo.corte;
+          this.metodoCorte = this.metodoCorte.split(":");
+          this.metodoCorte = parseInt(this.metodoCorte[0], 10) * 100 + parseInt(this.metodoCorte[1], 10);
         }
       }, {
-        key: "filterPeriodos",
-        value: function filterPeriodos() {
-          var _this22 = this;
-
-          if (this.storeS.layout.emp.id === 1) {
-            // return this.periodos.filter(transpId => {
-            //   if (this.formGeral.value.entregaBool) {
-            //     return transpId.transporte_id === 8 && transpId.id === 7;
-            //   } else {
-            //     return transpId.transporte_id === 1;
-            //   }
-            // });
-            if (this.layout === 'esalflores') {
-              return this.periodos.filter(function (transpId) {
-                return transpId.transporte_id === (_this22.formGeral.value.entregaBool ? 8 : 1);
-              });
-            }
-
-            if (this.layout === 'esalpet') {
-              return this.periodos.filter(function (transpId) {
-                return transpId.transporte_id === (_this22.formGeral.value.entregaBool ? 2 : 1);
-              });
-            }
+        key: "filterTransportes",
+        value: function filterTransportes() {
+          return this.transporte.filter(function (metodos) {
+            return metodos.nome;
+          });
+        }
+      }, {
+        key: "changeTransporte",
+        value: function changeTransporte(metodo) {
+          if (this.formGeral.value.entregaBool === "RETIRA") {
+            this.formGeral.patchValue({
+              vFrete: 0
+            });
+            this.showDivPeriodo = true;
+            this.metodoId = metodo.id;
+            this.showRest = true;
+            return;
           }
 
-          return this.periodos;
-        }
-      }, {
-        key: "changeMetodoEntrega",
-        value: function changeMetodoEntrega() {
-          this.formGeral.value.entregaBool ? this.formGeral.patchValue({
-            vFrete: this.resFrete
-          }) : this.formGeral.patchValue({
-            vFrete: 0
-          });
+          if (this.formGeral.value.entregaBool !== "RETIRA") {
+            this.formGeral.patchValue({
+              vFrete: this.resFrete
+            });
+            this.showDivPeriodo = true;
+            this.metodoId = metodo.id;
+            this.showRest = true;
+          }
+
           this.errors = [];
-          this.showDivPeriodo = true;
 
           if (this.formGeral.value.periodo) {
             this.showRest = true;
@@ -13169,6 +13189,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           this.formGeral.patchValue({
             periodo: null
           });
+        }
+      }, {
+        key: "filterPeriodos",
+        value: function filterPeriodos() {
+          var _this23 = this;
+
+          var d = new Date(this.formGeral.value.data + 'T23:59');
+
+          if (this.storeS.layout.emp.id === 1) {
+            if (this.formGeral.value.entregaBool) {
+              return this.periodos.filter(function (transpId) {
+                return transpId.ativo === 1 && transpId.transporte_id === _this23.metodoId && transpId.week[d.getDay()] === 1;
+              });
+            }
+          }
+
+          return this.periodos;
         }
       }, {
         key: "checkForm",
@@ -13189,41 +13226,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             var calendarDate = new Date(this.formGeral.value.data + 'T23:59');
             var today = new Date();
 
-            if (this.formGeral.value.periodo === '13') {
-              // if (calendarDate.getDate() !== 21 && calendarDate.getDay() !== 0) {
-              if (calendarDate.getDay() !== 0) {
-                this.errors.push('Período de "Domingos e Feriados" só pode ser escolhido nos domingos ou feriados');
-              }
-            }
-
-            if (calendarDate.getDay() === 0 && this.formGeral.value.periodo !== '13' && this.formGeral.value.entregaBool) {
-              this.errors.push('Para entrega aos domingos, favor escolher o período de entrega "Domingos e Feriados (9h as 14h)".');
-            }
-
             if (calendarDate < today) {
               this.errors.push('Data selecionada precisa ser maior que a atual.');
             }
 
             if (calendarDate.getDate() + calendarDate.getMonth() === today.getDate() + today.getMonth()) {
-              // if (this.formGeral.value.periodo === '13') {
-              //   this.errors.push('Horário corte de domingos e feriados (11h) atingido. Favor escolher uma data posterior a atual.');
-              // }
-              if (today.getDay() === 0) {
-                if (today.getHours() >= 12) {
-                  this.errors.push('Horário de corte dos domingos (12h) atingido, favor escolher uma data posterior a atual.');
-                }
-              } else {
-                // tslint:disable-next-line:triple-equals
-                if ((today.getHours() >= 10 || today.getHours() === 9 && today.getMinutes() >= 30) && (this.formGeral.value.periodo == 12 || this.formGeral.value.periodo == 1)) {
-                  this.errors.push('Horário de corte (09h30min) atingido para o período da manhã, favor escolher o período da tarde ou uma data posterior a atual.');
-                } else if (today.getHours() >= 16) {
-                  this.errors.push('Horário de corte (16h) atingido, favor escolher uma data posterior a atual.');
-                }
+              if (today.getHours() * 100 + today.getMinutes() >= this.metodoCorte) {
+                this.errors.push('Horário de corte  atingido, favor escolher uma data posterior a atual.');
               }
             }
           }
 
-          if (this.formGeral.value.entregaBool) {
+          if (this.formGeral.value.entregaBool === 'FROTA') {
             if (!this.formGeral.value.entrega_nome) {
               this.errors.push('Campo NOME de entrega obrigatório.');
             }
@@ -13306,13 +13320,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "modalMeusEnderecos",
         value: function modalMeusEnderecos() {
-          var _this23 = this;
+          var _this24 = this;
 
           this.modalS.createModal(_modais_md_meusenderecos_md_meusenderecos_component__WEBPACK_IMPORTED_MODULE_3__["MdMeusenderecosComponent"]).then(function (res) {
             if (res) {
-              _this23.buscarCep(res.cep);
+              _this24.buscarCep(res.cep);
 
-              _this23.formGeral.patchValue({
+              _this24.formGeral.patchValue({
                 cep: res.cep,
                 entrega_cep: res.cep,
                 entrega_logr: res.logradouro,
@@ -13330,15 +13344,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "openMdNaoSeiCep",
         value: function openMdNaoSeiCep() {
-          var _this24 = this;
+          var _this25 = this;
 
           this.modalS.createModal(_modais_md_naoseicep_md_naoseicep_component__WEBPACK_IMPORTED_MODULE_5__["MdNaoseicepComponent"]).then(function (res) {
             if (res) {
-              _this24.formGeral.patchValue({
+              _this25.formGeral.patchValue({
                 cep: res
               });
 
-              _this24.buscarCep(res);
+              _this25.buscarCep(res);
             }
           });
         }
@@ -13376,7 +13390,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-entrega"]],
       decls: 72,
       vars: 21,
-      consts: [[1, "container", 2, "margin-bottom", "10vh"], [1, "img-wrap", "my-5", "cursor-pointer", 3, "routerLink"], ["style", "max-width: 300px;", "src", "../../../../assets/images/logos/esalflores.png", "alt", "Logo Esalflores", 4, "ngIf"], ["style", "max-width: 300px;", "src", "../../../../assets/images/logos/esalpet.png", "alt", "Logo Esalpet", 4, "ngIf"], [1, "hr-nav"], [1, "navbar", "navbar-expand-lg", "h3", "d-flex", "justify-content-center"], [1, "navbar-nav"], [1, "nav-item", "nav-link", "d-flex", "align-items-center", "cursor-pointer", "opac", 3, "routerLink"], [1, "bg-secondary", "number-wrap", "text-light", "font-weight-bold", "mr-3"], [1, "fa", "fa-chevron-right", "align-self-center", "mx-4", "deskonly"], [1, "nav-item", "nav-link", "d-flex", "align-items-center", "disabled", "opac"], [1, "nav-item", "nav-link", "d-flex", "align-items-center", "active"], [3, "formGroup"], ["id", "preencherDados", 1, "card"], [1, "card-body"], [1, "card-title"], [1, "row"], [1, "col-md-3", "borda-direita", "row-pad-10-0"], [1, "text-muted"], ["data-placement", "bottom", "data-toggle", "popover", "data-trigger", "hover", "id", "inforetirada", "data-html", "true", "data-content", "Deseja <b>retirar o produto</b>? Tamb\xE9m \xE9 necess\xE1rio digitar o CEP da regi\xE3o (ou cidade), para que seja verificada a disponibilidade e hor\xE1rios de atendimento em cada munic\xEDpio.", 1, "fas", "fa-info-circle", "cursor-pointer"], ["type", "button", 1, "btn", "btn-info", "btn-sm", "bottom5", 3, "click"], [1, "input-group", "input-group", "text-center", "input-cep", "w-mmd-50"], ["formControlName", "cep", "type", "text", "placeholder", "CEP de entrega...", 1, "form-control", 3, "change"], [1, "input-group-append", "cursor-pointer"], [1, "input-group-text", "py-1", "justify-content-center"], [1, "fa", "fa-search", 3, "ngClass", "click"], [1, "input-group-text", "spinner-border", 2, "width", "2rem", "height", "2rem", 3, "ngClass"], [1, "nao-sei-cep", "w-mmd-50", "text-muted", "mx-auto", "cursor-pointer"], [3, "click"], [1, "input-group", "input-group", "text-center", "input-cep", "w-mmd-50", "input-date"], ["formControlName", "data", "type", "date", "id", "inputData", 1, "form-control", 3, "min"], [4, "ngIf"], [1, "col-md-3", "row-pad-10-0"], ["class", "alert alert-warning text-center", 4, "ngIf"], [1, "text-center", "text-white", 2, "background-color", "var(--bg-modal)", "padding", "5vh"], ["class", "m-md-5 m-sm-0", 4, "ngIf"], ["src", "../../../../assets/images/logos/esalflores.png", "alt", "Logo Esalflores", 2, "max-width", "300px"], ["src", "../../../../assets/images/logos/esalpet.png", "alt", "Logo Esalpet", 2, "max-width", "300px"], [1, "form-check"], ["type", "radio", "id", "radioEntrega", "formControlName", "entregaBool", 1, "form-check-input", "mr-2", 3, "value", "change"], ["for", "radioEntrega", 1, "form-check-label"], ["type", "radio", "id", "radioRetirada", "formControlName", "entregaBool", 1, "form-check-input", "mr-2", 3, "value", "change"], ["for", "radioRetirada", 1, "form-check-label"], ["class", "form-check", 4, "ngFor", "ngForOf"], ["type", "radio", "formControlName", "periodo", 1, "form-check-input", "mr-2", 3, "id", "value", "change"], [1, "form-check-label", 3, "for"], [1, "text-danger"], [1, "alert", "alert-warning", "text-center"], ["class", "my-2", 4, "ngIf"], [1, "my-2"], [1, "h4", "text-center"], [1, "row", "mt-4", 2, "place-content", "center"], [1, "col-md-5"], [1, "form-group", "form-inline"], ["for", "inputNome"], [1, "text-danger", "ml-1", "mr-3"], ["id", "inputNome", "type", "text", "formControlName", "entrega_nome", "placeholder", "Nome de quem ir\xE1 retirar o pedido", 1, "form-control", "w-md-75"], [1, "col-md-6"], ["for", "inputSobrenome", 1, "mr-3"], ["id", "inputSobrenome", "type", "text", "formControlName", "entrega_sobrenome", "placeholder", "Sobrenome", 1, "form-control", "w-md-75"], ["role", "alert", 1, "alert", "alert-info", "w-lg-50", "mx-auto", "mt-2", "mb-4", "text-center"], [1, "col-lg-1", "col-sm-2", "align-self-center", "pr-0", "mt-3"], ["for", "inputNomeEntr", 1, "m-0"], [1, "text-danger", "ml-1"], [1, "col-lg-5", "col-sm-10", "mt-3"], ["id", "inputNomeEntr", "type", "text", "formControlName", "entrega_nome", "placeholder", "Nome de quem ir\xE1 receber o pedido", 1, "form-control"], [1, "col-lg-1", "col-sm-2", "align-self-center", "mt-3"], ["for", "inputSobrenome", 1, "m-0"], ["id", "inputSobrenome", "type", "text", "formControlName", "entrega_sobrenome", "placeholder", "Sobrenome", 1, "form-control"], ["for", "inputCepEntr", 1, "m-0"], ["id", "inputCepEntr", "type", "text", "formControlName", "entrega_cep", "placeholder", "Digite o CEP", 1, "form-control", 3, "change"], ["for", "inputEndereco", 1, "m-0"], ["id", "inputEndereco", "type", "text", "formControlName", "entrega_logr", "placeholder", "Digite o endere\xE7o", 1, "form-control"], ["for", "inputNumero", 1, "m-0"], [1, "col-lg-1", "col-sm-2", "mt-3"], ["id", "inputNumero", "type", "number", "min", "0", "formControlName", "entrega_numero", 1, "form-control"], [1, "col-lg-2", "deskonly", "align-self-center", "text-right", "mt-3"], ["for", "inputComplemento", 1, "m-0"], [1, "col-sm-3", "cellonly", "align-self-center", "mt-3"], [1, "col-lg-2", "col-sm-5", "mt-3"], ["id", "inputComplemento", "type", "text", "formControlName", "entrega_complemento", 1, "form-control"], ["for", "inputUF", 1, "m-0"], [1, "col-lg-2", "col-sm-2", "mt-3"], ["id", "inputUF", "type", "text", "formControlName", "entrega_uf", 1, "form-control"], [1, "col-lg-1", "col-sm-3", "align-self-center", "mt-3"], ["for", "inputCidade", 1, "m-0"], ["id", "inputCidade", "type", "text", "formControlName", "entrega_munic", 1, "form-control"], [1, "col-lg-1", "col-sm-2", "align-self-center", "mt-3", "pr-0"], ["for", "inputBairro", 1, "m-0"], ["id", "inputBairro", "type", "text", "formControlName", "entrega_bairro", 1, "form-control"], ["for", "inputReferencia", 1, "m-0"], ["id", "inputReferencia", "type", "text", "formControlName", "entrega_prox", "placeholder", "Ponto de refer\xEAncia do local", 1, "form-control"], ["for", "inputTel1", 1, "m-0"], ["id", "inputTel1", "type", "text", "formControlName", "entrega_fone", 1, "form-control"], ["for", "inputTel2", 1, "m-0"], ["id", "inputTel2", "type", "text", "formControlName", "entrega_fone2", 1, "form-control"], [1, "text-muted", "mt-1", 2, "font-size", "12px"], [3, "routerLink", "fragment"], [1, "form-check", "form-check-inline", "ml-4"], ["type", "radio", "name", "cartao", "id", "radioSim", "formControlName", "cartao", "checked", "", 1, "form-check-input", "mr-2", 3, "value"], ["for", "radioSim", 1, "form-check-label", "lh-0"], [1, "form-check", "form-check-inline", "ml-3"], ["type", "radio", "name", "cartao", "id", "radioNao", "formControlName", "cartao", 1, "form-check-input", "mr-2", 3, "value"], ["for", "radioNao", 1, "form-check-label", "lh-0"], [1, "form-group"], ["for", "exampleFormControlTextarea1"], ["id", "exampleFormControlTextarea1", "rows", "6", "formControlName", "cartao_msg", "placeholder", "Escreva aqui a mensagem que ser\xE1 entregue junto com o presente...", 1, "form-control"], [1, "col-sm-12", "col-md-2", "m-0", "align-self-center"], [1, "form-check", "form-check-inline"], ["type", "radio", "id", "radioAnonimo", "formControlName", "anonimo", "checked", "", 1, "form-check-input", "mr-2", 3, "value", "change"], ["for", "radioAnonimo", 1, "form-check-label", "lh-0"], [1, "col-sm-12", "col-md-3", "col-lg-2", "m-0", "my-2", "align-self-center"], [1, "form-check", "form-check-inline", "text-truncate"], ["type", "radio", "id", "radioComAssinatura", "formControlName", "anonimo", 1, "form-check-input", "mr-2", 3, "value", "change"], ["for", "radioComAssinatura", 1, "form-check-label", "lh-0"], [1, "col-sm-12", "col-md-4"], ["type", "text", "placeholder", "Assinatura", "formControlName", "cartao_ass", 1, "form-control", 3, "readOnly"], ["class", "alert alert-info mb-1 mt-3 text-center", "style", "font-size: 12px; padding: 12px", 4, "ngIf"], [1, "alert", "alert-info", "mb-1", "mt-3", "text-center", 2, "font-size", "12px", "padding", "12px"], [1, "col-md-9"], ["type", "checkbox", "id", "check1", "formControlName", "send_sms", 1, "form-check-input"], ["for", "check1", 1, "form-check-label"], [1, "form-check", "my-2"], ["type", "checkbox", "id", "check2", "formControlName", "ocultarPedido", 1, "form-check-input"], ["for", "check2", 1, "form-check-label"], ["data-placement", "top", "data-toggle", "popover", "data-trigger", "hover", "id", "infoOcultar", "data-content", "As informa\xE7\xF5es do pedido s\xF3 ficar\xE3o dispon\xEDveis em uma de nossas lojas f\xEDsicas e poder\xE3o ser consultadas mediante apresenta\xE7\xE3o de documento de indentifica\xE7\xE3o com foto.", 1, "fas", "fa-info-circle", "cursor-pointer"], [1, "col-md-3"], ["type", "button", 1, "btn", "btn-success", "btn-lg", "btn-block", 3, "click"], [1, "fa", "fa-chevron-right", "align-self-center"], [1, "lista", "text-danger", "mt-2"], ["class", "m-0", "style", "font-size: smaller", 4, "ngFor", "ngForOf"], [1, "m-0", 2, "font-size", "smaller"], [1, "m-md-5", "m-sm-0"], [1, "font-weight-bold"]],
+      consts: [[1, "container", 2, "margin-bottom", "10vh"], [1, "img-wrap", "my-5", "cursor-pointer", 3, "routerLink"], ["style", "max-width: 300px;", "src", "../../../../assets/images/logos/esalflores.png", "alt", "Logo Esalflores", 4, "ngIf"], ["style", "max-width: 300px;", "src", "../../../../assets/images/logos/esalpet.png", "alt", "Logo Esalpet", 4, "ngIf"], [1, "hr-nav"], [1, "navbar", "navbar-expand-lg", "h3", "d-flex", "justify-content-center"], [1, "navbar-nav"], [1, "nav-item", "nav-link", "d-flex", "align-items-center", "cursor-pointer", "opac", 3, "routerLink"], [1, "bg-secondary", "number-wrap", "text-light", "font-weight-bold", "mr-3"], [1, "fa", "fa-chevron-right", "align-self-center", "mx-4", "deskonly"], [1, "nav-item", "nav-link", "d-flex", "align-items-center", "disabled", "opac"], [1, "nav-item", "nav-link", "d-flex", "align-items-center", "active"], [3, "formGroup"], ["id", "preencherDados", 1, "card"], [1, "card-body"], [1, "card-title"], [1, "row"], [1, "col-md-3", "borda-direita", "row-pad-10-0"], [1, "text-muted"], ["data-placement", "bottom", "data-toggle", "popover", "data-trigger", "hover", "id", "inforetirada", "data-html", "true", "data-content", "Deseja <b>retirar o produto</b>? Tamb\xE9m \xE9 necess\xE1rio digitar o CEP da regi\xE3o (ou cidade), para que seja verificada a disponibilidade e hor\xE1rios de atendimento em cada munic\xEDpio.", 1, "fas", "fa-info-circle", "cursor-pointer"], ["type", "button", 1, "btn", "btn-info", "btn-sm", "bottom5", 3, "click"], [1, "input-group", "input-group", "text-center", "input-cep", "w-mmd-50"], ["formControlName", "cep", "type", "text", "placeholder", "CEP de entrega...", 1, "form-control", 3, "change"], [1, "input-group-append", "cursor-pointer"], [1, "input-group-text", "py-1", "justify-content-center"], [1, "fa", "fa-search", 3, "ngClass", "click"], [1, "input-group-text", "spinner-border", 2, "width", "2rem", "height", "2rem", 3, "ngClass"], [1, "nao-sei-cep", "w-mmd-50", "text-muted", "mx-auto", "cursor-pointer"], [3, "click"], [1, "input-group", "input-group", "text-center", "input-cep", "w-mmd-50", "input-date"], ["formControlName", "data", "type", "date", "id", "inputData", 1, "form-control", 3, "min"], [4, "ngIf"], [1, "col-md-3", "row-pad-10-0"], ["class", "alert alert-warning text-center", 4, "ngIf"], [1, "text-center", "text-white", 2, "background-color", "var(--bg-modal)", "padding", "5vh"], ["class", "m-md-5 m-sm-0", 4, "ngIf"], ["src", "../../../../assets/images/logos/esalflores.png", "alt", "Logo Esalflores", 2, "max-width", "300px"], ["src", "../../../../assets/images/logos/esalpet.png", "alt", "Logo Esalpet", 2, "max-width", "300px"], ["class", "form-check", 4, "ngFor", "ngForOf"], [1, "form-check"], ["type", "radio", "formControlName", "entregaBool", 1, "form-check-input", "mr-2", 3, "id", "value", "change"], [1, "form-check-label", 3, "for"], ["type", "radio", "formControlName", "periodo", 1, "form-check-input", "mr-2", 3, "id", "value", "change"], [1, "text-danger"], [1, "alert", "alert-warning", "text-center"], ["class", "my-2", 4, "ngIf"], [1, "my-2"], [1, "h4", "text-center"], [1, "row", "mt-4", 2, "place-content", "center"], [1, "col-md-5"], [1, "form-group", "form-inline"], ["for", "inputNome"], [1, "text-danger", "ml-1", "mr-3"], ["id", "inputNome", "type", "text", "formControlName", "entrega_nome", "placeholder", "Nome de quem ir\xE1 retirar o pedido", 1, "form-control", "w-md-75"], [1, "col-md-6"], ["for", "inputSobrenome", 1, "mr-3"], ["id", "inputSobrenome", "type", "text", "formControlName", "entrega_sobrenome", "placeholder", "Sobrenome", 1, "form-control", "w-md-75"], ["role", "alert", 1, "alert", "alert-info", "w-lg-50", "mx-auto", "mt-2", "mb-4", "text-center"], [1, "col-lg-1", "col-sm-2", "align-self-center", "pr-0", "mt-3"], ["for", "inputNomeEntr", 1, "m-0"], [1, "text-danger", "ml-1"], [1, "col-lg-5", "col-sm-10", "mt-3"], ["id", "inputNomeEntr", "type", "text", "formControlName", "entrega_nome", "placeholder", "Nome de quem ir\xE1 receber o pedido", 1, "form-control"], [1, "col-lg-1", "col-sm-2", "align-self-center", "mt-3"], ["for", "inputSobrenome", 1, "m-0"], ["id", "inputSobrenome", "type", "text", "formControlName", "entrega_sobrenome", "placeholder", "Sobrenome", 1, "form-control"], ["for", "inputCepEntr", 1, "m-0"], ["id", "inputCepEntr", "type", "text", "formControlName", "entrega_cep", "placeholder", "Digite o CEP", 1, "form-control", 3, "change"], ["for", "inputEndereco", 1, "m-0"], ["id", "inputEndereco", "type", "text", "formControlName", "entrega_logr", "placeholder", "Digite o endere\xE7o", 1, "form-control"], ["for", "inputNumero", 1, "m-0"], [1, "col-lg-1", "col-sm-2", "mt-3"], ["id", "inputNumero", "type", "number", "min", "0", "formControlName", "entrega_numero", 1, "form-control"], [1, "col-lg-2", "deskonly", "align-self-center", "text-right", "mt-3"], ["for", "inputComplemento", 1, "m-0"], [1, "col-sm-3", "cellonly", "align-self-center", "mt-3"], [1, "col-lg-2", "col-sm-5", "mt-3"], ["id", "inputComplemento", "type", "text", "formControlName", "entrega_complemento", 1, "form-control"], ["for", "inputUF", 1, "m-0"], [1, "col-lg-2", "col-sm-2", "mt-3"], ["id", "inputUF", "type", "text", "formControlName", "entrega_uf", 1, "form-control"], [1, "col-lg-1", "col-sm-3", "align-self-center", "mt-3"], ["for", "inputCidade", 1, "m-0"], ["id", "inputCidade", "type", "text", "formControlName", "entrega_munic", 1, "form-control"], [1, "col-lg-1", "col-sm-2", "align-self-center", "mt-3", "pr-0"], ["for", "inputBairro", 1, "m-0"], ["id", "inputBairro", "type", "text", "formControlName", "entrega_bairro", 1, "form-control"], ["for", "inputReferencia", 1, "m-0"], ["id", "inputReferencia", "type", "text", "formControlName", "entrega_prox", "placeholder", "Ponto de refer\xEAncia do local", 1, "form-control"], ["for", "inputTel1", 1, "m-0"], ["id", "inputTel1", "type", "text", "formControlName", "entrega_fone", 1, "form-control"], ["for", "inputTel2", 1, "m-0"], ["id", "inputTel2", "type", "text", "formControlName", "entrega_fone2", 1, "form-control"], [1, "text-muted", "mt-1", 2, "font-size", "12px"], [3, "routerLink", "fragment"], [1, "form-check", "form-check-inline", "ml-4"], ["type", "radio", "name", "cartao", "id", "radioSim", "formControlName", "cartao", "checked", "", 1, "form-check-input", "mr-2", 3, "value"], ["for", "radioSim", 1, "form-check-label", "lh-0"], [1, "form-check", "form-check-inline", "ml-3"], ["type", "radio", "name", "cartao", "id", "radioNao", "formControlName", "cartao", 1, "form-check-input", "mr-2", 3, "value"], ["for", "radioNao", 1, "form-check-label", "lh-0"], [1, "form-group"], ["for", "exampleFormControlTextarea1"], ["id", "exampleFormControlTextarea1", "rows", "6", "formControlName", "cartao_msg", "placeholder", "Escreva aqui a mensagem que ser\xE1 entregue junto com o presente...", 1, "form-control"], [1, "col-sm-12", "col-md-2", "m-0", "align-self-center"], [1, "form-check", "form-check-inline"], ["type", "radio", "id", "radioAnonimo", "formControlName", "anonimo", "checked", "", 1, "form-check-input", "mr-2", 3, "value", "change"], ["for", "radioAnonimo", 1, "form-check-label", "lh-0"], [1, "col-sm-12", "col-md-3", "col-lg-2", "m-0", "my-2", "align-self-center"], [1, "form-check", "form-check-inline", "text-truncate"], ["type", "radio", "id", "radioComAssinatura", "formControlName", "anonimo", 1, "form-check-input", "mr-2", 3, "value", "change"], ["for", "radioComAssinatura", 1, "form-check-label", "lh-0"], [1, "col-sm-12", "col-md-4"], ["type", "text", "placeholder", "Assinatura", "formControlName", "cartao_ass", 1, "form-control", 3, "readOnly"], ["class", "alert alert-info mb-1 mt-3 text-center", "style", "font-size: 12px; padding: 12px", 4, "ngIf"], [1, "alert", "alert-info", "mb-1", "mt-3", "text-center", 2, "font-size", "12px", "padding", "12px"], [1, "col-md-9"], ["type", "checkbox", "id", "check1", "formControlName", "send_sms", 1, "form-check-input"], ["for", "check1", 1, "form-check-label"], [1, "form-check", "my-2"], ["type", "checkbox", "id", "check2", "formControlName", "ocultarPedido", 1, "form-check-input"], ["for", "check2", 1, "form-check-label"], ["data-placement", "top", "data-toggle", "popover", "data-trigger", "hover", "id", "infoOcultar", "data-content", "As informa\xE7\xF5es do pedido s\xF3 ficar\xE3o dispon\xEDveis em uma de nossas lojas f\xEDsicas e poder\xE3o ser consultadas mediante apresenta\xE7\xE3o de documento de indentifica\xE7\xE3o com foto.", 1, "fas", "fa-info-circle", "cursor-pointer"], [1, "col-md-3"], ["type", "button", 1, "btn", "btn-success", "btn-lg", "btn-block", 3, "click"], [1, "fa", "fa-chevron-right", "align-self-center"], [1, "lista", "text-danger", "mt-2"], ["class", "m-0", "style", "font-size: smaller", 4, "ngFor", "ngForOf"], [1, "m-0", 2, "font-size", "smaller"], [1, "m-md-5", "m-sm-0"], [1, "font-weight-bold"]],
       template: function EntregaComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -13583,7 +13597,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 17);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](62, EntregaComponent_div_62_Template, 12, 2, "div", 31);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](62, EntregaComponent_div_62_Template, 5, 1, "div", 31);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -13682,7 +13696,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.layout === "esalpet");
         }
       },
-      directives: [_angular_router__WEBPACK_IMPORTED_MODULE_10__["RouterLink"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgIf"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["ɵangular_packages_forms_forms_y"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["NgControlStatusGroup"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["FormGroupDirective"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["FormControlName"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgClass"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["RadioControlValueAccessor"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgForOf"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["NumberValueAccessor"], _angular_router__WEBPACK_IMPORTED_MODULE_10__["RouterLinkWithHref"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["CheckboxControlValueAccessor"]],
+      directives: [_angular_router__WEBPACK_IMPORTED_MODULE_10__["RouterLink"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgIf"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["ɵangular_packages_forms_forms_y"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["NgControlStatusGroup"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["FormGroupDirective"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["FormControlName"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgClass"], _angular_common__WEBPACK_IMPORTED_MODULE_14__["NgForOf"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["RadioControlValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["NumberValueAccessor"], _angular_router__WEBPACK_IMPORTED_MODULE_10__["RouterLinkWithHref"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["CheckboxControlValueAccessor"]],
       pipes: [_angular_common__WEBPACK_IMPORTED_MODULE_14__["CurrencyPipe"]],
       styles: [".number-wrap[_ngcontent-%COMP%] {\n  width: 40px;\n  height: 40px;\n  text-align: center;\n  border-radius: 50%;\n  padding-top: 5px;\n}\n\n.opac[_ngcontent-%COMP%], i[_ngcontent-%COMP%] {\n  opacity: 0.5;\n}\n\n.opac[_ngcontent-%COMP%]:hover {\n  opacity: 1;\n}\n\n.hr-nav[_ngcontent-%COMP%] {\n  border-top: 1px dashed #DDD;\n}\n\n.input-cep[_ngcontent-%COMP%], .nao-sei-cep[_ngcontent-%COMP%] {\n  margin: auto;\n}\n\n.nao-sei-cep[_ngcontent-%COMP%] {\n  font-size: 0.8rem;\n}\n\n.nao-sei-cep[_ngcontent-%COMP%]   u[_ngcontent-%COMP%] {\n  float: right;\n}\n\ninput[type=number][_ngcontent-%COMP%]::-webkit-inner-spin-button, input[type=number][_ngcontent-%COMP%]::-webkit-outer-spin-button {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n  margin: 0;\n}\n\n.input-date[_ngcontent-%COMP%]   input[_ngcontent-%COMP%] {\n  box-sizing: border-box;\n  outline: 0;\n  padding: 0.75rem;\n  position: relative;\n  width: 100%;\n}\n\ninput[type=date][_ngcontent-%COMP%]::-webkit-calendar-picker-indicator {\n  background: transparent;\n  bottom: 0;\n  color: transparent;\n  cursor: pointer;\n  height: auto;\n  left: 0;\n  position: absolute;\n  right: 0;\n  top: 0;\n  width: auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvY2hlY2tvdXQvZW50cmVnYS9lbnRyZWdhLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksV0FBQTtFQUNBLFlBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0EsZ0JBQUE7QUFDSjs7QUFFQTtFQUNJLFlBQUE7QUFDSjs7QUFFQTtFQUNJLFVBQUE7QUFDSjs7QUFFQTtFQUNJLDJCQUFBO0FBQ0o7O0FBRUE7RUFDSSxZQUFBO0FBQ0o7O0FBRUE7RUFDSSxpQkFBQTtBQUNKOztBQUNJO0VBQ0ksWUFBQTtBQUNSOztBQUdBOztFQUVJLHdCQUFBO0VBQ0EscUJBQUE7RUFDQSxnQkFBQTtFQUNBLFNBQUE7QUFBSjs7QUFHQTtFQUNJLHNCQUFBO0VBQ0EsVUFBQTtFQUNBLGdCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0FBQUo7O0FBSUE7RUFDSSx1QkFBQTtFQUNBLFNBQUE7RUFDQSxrQkFBQTtFQUNBLGVBQUE7RUFDQSxZQUFBO0VBQ0EsT0FBQTtFQUNBLGtCQUFBO0VBQ0EsUUFBQTtFQUNBLE1BQUE7RUFDQSxXQUFBO0FBREoiLCJmaWxlIjoic3JjL2FwcC9wYWdlcy9jaGVja291dC9lbnRyZWdhL2VudHJlZ2EuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIubnVtYmVyLXdyYXAge1xuICAgIHdpZHRoOiA0MHB4O1xuICAgIGhlaWdodDogNDBweDtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgYm9yZGVyLXJhZGl1czogNTAlO1xuICAgIHBhZGRpbmctdG9wOiA1cHg7XG59XG5cbi5vcGFjLCBpIHtcbiAgICBvcGFjaXR5OiAwLjU7XG59XG5cbi5vcGFjOmhvdmVyIHtcbiAgICBvcGFjaXR5OiAxO1xufVxuXG4uaHItbmF2IHtcbiAgICBib3JkZXItdG9wOiAxcHggZGFzaGVkICNEREQ7XG59XG5cbi5pbnB1dC1jZXAsIC5uYW8tc2VpLWNlcCB7XG4gICAgbWFyZ2luOiBhdXRvO1xufVxuXG4ubmFvLXNlaS1jZXAge1xuICAgIGZvbnQtc2l6ZTogMC44cmVtO1xuXG4gICAgdSB7XG4gICAgICAgIGZsb2F0OiByaWdodDtcbiAgICB9XG59XG5cbmlucHV0W3R5cGU9bnVtYmVyXTo6LXdlYmtpdC1pbm5lci1zcGluLWJ1dHRvbixcbmlucHV0W3R5cGU9bnVtYmVyXTo6LXdlYmtpdC1vdXRlci1zcGluLWJ1dHRvbiB7XG4gICAgLXdlYmtpdC1hcHBlYXJhbmNlOiBub25lO1xuICAgIC1tb3otYXBwZWFyYW5jZTogbm9uZTtcbiAgICBhcHBlYXJhbmNlOiBub25lO1xuICAgIG1hcmdpbjogMDtcbn1cblxuLmlucHV0LWRhdGUgaW5wdXQge1xuICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG4gICAgb3V0bGluZTogMDtcbiAgICBwYWRkaW5nOiAuNzVyZW07XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgIHdpZHRoOiAxMDAlO1xufVxuXG5cbmlucHV0W3R5cGU9XCJkYXRlXCJdOjotd2Via2l0LWNhbGVuZGFyLXBpY2tlci1pbmRpY2F0b3Ige1xuICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50O1xuICAgIGJvdHRvbTogMDtcbiAgICBjb2xvcjogdHJhbnNwYXJlbnQ7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGhlaWdodDogYXV0bztcbiAgICBsZWZ0OiAwO1xuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICByaWdodDogMDtcbiAgICB0b3A6IDA7XG4gICAgd2lkdGg6IGF1dG87XG59Il19 */"],
       data: {
@@ -13794,13 +13808,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -13854,7 +13868,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -13902,13 +13916,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     var _c0 = ["paypalRef"];
 
@@ -15853,18 +15867,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "modalMeusEnderecos",
         value: function modalMeusEnderecos() {
-          var _this25 = this;
+          var _this26 = this;
 
           this.modalS.createModal(_modais_md_meusenderecos_md_meusenderecos_component__WEBPACK_IMPORTED_MODULE_10__["MdMeusenderecosComponent"]).then(function (res) {
             if (res) {
-              _this25.buscarCep(res.cep);
+              _this26.buscarCep(res.cep);
 
-              _this25.formGeral.patchValue({
+              _this26.formGeral.patchValue({
                 cep: res.cep,
                 entrega_cep: res.cep,
                 entrega_logr: res.logradouro,
-                entrega_numero: res.numero || _this25.userS.user.cobrNumero,
-                entrega_complemento: res.complemento || _this25.userS.user.cobrComplemento,
+                entrega_numero: res.numero || _this26.userS.user.cobrNumero,
+                entrega_complemento: res.complemento || _this26.userS.user.cobrComplemento,
                 entrega_uf: res.uf,
                 entrega_munic: res.municipio,
                 entrega_bairro: res.bairro
@@ -15928,7 +15942,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "buscarCep",
         value: function buscarCep(cobrCep) {
-          var _this26 = this;
+          var _this27 = this;
 
           if (!cobrCep) {
             return;
@@ -15941,18 +15955,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             var urlViacep = "https://viacep.com.br/ws/".concat(cobrCep, "/json/");
             this.http.get(urlViacep).subscribe(function (res) {
               if (res.erro) {
-                _this26.pessoaCobranca.patchValue({
+                _this27.pessoaCobranca.patchValue({
                   cobrCep: ""
                 });
 
-                _this26.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+                _this27.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                   title: "CEP não encontrado.",
                   message: "Verifique o CEP digitado e tente novamente."
                 });
 
                 return;
               } else {
-                _this26.pessoaCobranca.patchValue({
+                _this27.pessoaCobranca.patchValue({
                   cobrCep: cobrCep,
                   cobrLogradouro: res.logradouro,
                   cobrBairro: res.bairro,
@@ -16009,7 +16023,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "salvarDados",
         value: function salvarDados($event) {
-          var _this27 = this;
+          var _this28 = this;
 
           try {
             if (this.formCadastro.invalid) {
@@ -16027,25 +16041,25 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             this.loading = true;
             this.userS.updatePessoa($event, this.formCadastro.value).subscribe(function (res) {
-              _this27.checkForm();
+              _this28.checkForm();
 
-              _this27.userS.user = res;
+              _this28.userS.user = res;
 
-              if (_this27.firstLogin === true) {
-                _this27.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+              if (_this28.firstLogin === true) {
+                _this28.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                   title: "Cadastro",
                   message: "Cadastro concluido com sucesso!"
                 });
 
-                _this27.router.navigate(["/"]);
+                _this28.router.navigate(["/"]);
               } else {
-                _this27.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+                _this28.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                   title: "Cadastro",
                   message: "Cadastro atualizado com sucesso!"
                 });
               }
 
-              _this27.loading = false;
+              _this28.loading = false;
             });
           } catch (error) {
             this.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
@@ -16058,30 +16072,30 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "resetarCarrinho",
         value: function resetarCarrinho() {
-          var _this28 = this;
+          var _this29 = this;
 
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_7__["MdConfirmComponent"], {
             title: "Confirmar",
             message: "Deseja limpar o carrinho e reiniciar o processo do zero?"
           }).then(function (res) {
             if (res) {
-              _this28.cartS.resetCart();
+              _this29.cartS.resetCart();
 
-              _this28.router.navigate(["/"]);
+              _this29.router.navigate(["/"]);
             }
           });
         }
       }, {
         key: "editDadosEntrega",
         value: function editDadosEntrega() {
-          var _this29 = this;
+          var _this30 = this;
 
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_7__["MdConfirmComponent"], {
             title: "Confirmar",
             message: "Deseja editar os dados da entrega?"
           }).then(function (res) {
             if (res) {
-              _this29.router.navigate(["/entrega"]);
+              _this30.router.navigate(["/entrega"]);
             }
           });
         }
@@ -16095,26 +16109,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "renderTokenCard",
         value: function renderTokenCard() {
-          var _this30 = this;
+          var _this31 = this;
 
           this.mundipaggS.checkToken().subscribe(function (response) {
-            _this30.cartS.tokenCard = response;
-            _this30.responseData = response;
+            _this31.cartS.tokenCard = response;
+            _this31.responseData = response;
           });
         }
       }, {
         key: "renderBtnPayPal",
         value: function renderBtnPayPal() {
-          var _this31 = this;
+          var _this32 = this;
 
           this.paypalS.checkDadosCart(this.cartS.cart).subscribe(function (resCheck) {
             if (resCheck.error) {
-              _this31.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+              _this32.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                 title: "Erro ao finalizar pagamento.",
                 message: resCheck.error
               });
 
-              _this31.bPayPalBtn = false;
+              _this32.bPayPalBtn = false;
               return;
             }
 
@@ -16127,7 +16141,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                   return actions.order.create({
                     purchase_units: [{
                       amount: {
-                        value: _this31.cartS.cart.valorTotal,
+                        value: _this32.cartS.cart.valorTotal,
                         currency_code: "BRL"
                       }
                     }]
@@ -16135,40 +16149,40 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 },
                 onApprove: function onApprove(data, actions) {
                   actions.order.capture().then(function (resCapture) {
-                    _this31.configCart("paypal", resCapture);
+                    _this32.configCart("paypal", resCapture);
 
-                    _this31.pedidoS.postPedido(_this31.cartS.cart).subscribe(function (resPostPedido) {
+                    _this32.pedidoS.postPedido(_this32.cartS.cart).subscribe(function (resPostPedido) {
                       if (resPostPedido.error) {
                         console.error(resPostPedido.error);
                         return;
                       }
 
-                      _this31.gTagS.purchase(_this31.cartS.cart, resPostPedido.id);
+                      _this32.gTagS.purchase(_this32.cartS.cart, resPostPedido.id);
 
-                      _this31.resetDadosCart();
+                      _this32.resetDadosCart();
 
-                      _this31.router.navigate(["/order-success"]);
+                      _this32.router.navigate(["/order-success"]);
                     });
                   });
                 },
                 onError: function onError(err) {
                   console.error(err);
                 }
-              }).render(_this31.paypalRef.nativeElement);
+              }).render(_this32.paypalRef.nativeElement);
             }
           });
         }
       }, {
         key: "editDadosCarrinho",
         value: function editDadosCarrinho() {
-          var _this32 = this;
+          var _this33 = this;
 
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_7__["MdConfirmComponent"], {
             title: "Confirmar",
             message: "Deseja editar os itens do carrinho?"
           }).then(function (res) {
             if (res) {
-              _this32.router.navigate(["/carrinho"]);
+              _this33.router.navigate(["/carrinho"]);
             }
           });
         }
@@ -16182,7 +16196,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         key: "gerarPix",
         value: function gerarPix($event) {
           return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee3() {
-            var _this33 = this;
+            var _this34 = this;
 
             var pixGerado;
             return regeneratorRuntime.wrap(function _callee3$(_context3) {
@@ -16219,7 +16233,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                     this.qrCodePix = pixGerado.base64QRcode;
                     this.linkPix = pixGerado.textoImagemQRcode;
                     this.timerPix = setInterval(function () {
-                      return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(_this33, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
+                      return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(_this34, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
                         var resGet, resPostPedido;
                         return regeneratorRuntime.wrap(function _callee2$(_context2) {
                           while (1) {
@@ -16298,7 +16312,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         key: "gerarQrCodePicPay",
         value: function gerarQrCodePicPay($event) {
           return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee5() {
-            var _this34 = this;
+            var _this35 = this;
 
             var payload, qrCodeGerado;
             return regeneratorRuntime.wrap(function _callee5$(_context5) {
@@ -16339,7 +16353,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                   case 10:
                     this.qrCodePicPay = qrCodeGerado.qrcode.base64;
                     this.timerPicPay = setInterval(function () {
-                      return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(_this34, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee4() {
+                      return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(_this35, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee4() {
                         var resStatus, resPostPedido;
                         return regeneratorRuntime.wrap(function _callee4$(_context4) {
                           while (1) {
@@ -16425,7 +16439,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "finalizarCompra",
         value: function finalizarCompra($event) {
-          var _this35 = this;
+          var _this36 = this;
 
           if (!this.validarCart()) {
             return;
@@ -16527,51 +16541,51 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           }).then(function (confirm) {
             if (confirm) {
               try {
-                _this35.disableFinalizarBtn = true;
+                _this36.disableFinalizarBtn = true;
 
-                _this35.configCart("credit_card");
+                _this36.configCart("credit_card");
 
                 grecaptcha.ready(function () {
                   grecaptcha.execute(src_environments_environment__WEBPACK_IMPORTED_MODULE_9__["environment"].recaptchaToken, {
                     action: "CHECKOUT"
                   }).then(function (token) {
-                    _this35.mundipaggS.gerarPagamentoCC(_this35.dadosCC.value, token, _this35.salvarCartao, _this35.cpfTitular, _this35.fatura, _this35.salvarEndereco, _this35.pessoaCobranca.value).subscribe(function (res) {
+                    _this36.mundipaggS.gerarPagamentoCC(_this36.dadosCC.value, token, _this36.salvarCartao, _this36.cpfTitular, _this36.fatura, _this36.salvarEndereco, _this36.pessoaCobranca.value).subscribe(function (res) {
                       if (res.error) {
-                        _this35.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+                        _this36.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                           title: "Erro ao gerar pagamento.",
                           message: res.error
                         });
 
-                        _this35.errors.push(res.error);
+                        _this36.errors.push(res.error);
 
-                        _this35.disableFinalizarBtn = false;
+                        _this36.disableFinalizarBtn = false;
 
                         if (res.error.startsWith("Número de tentativas excedido")) {
-                          _this35.userS.excluirConta(_this35.userS.user.id).subscribe(function () {
-                            _this35.userS.logoff();
+                          _this36.userS.excluirConta(_this36.userS.user.id).subscribe(function () {
+                            _this36.userS.logoff();
                           });
                         }
 
                         return;
                       }
 
-                      _this35.router.navigate(["/order-success"]);
+                      _this36.router.navigate(["/order-success"]);
 
-                      _this35.gTagS.purchase(_this35.cartS.cart, res.id);
+                      _this36.gTagS.purchase(_this36.cartS.cart, res.id);
 
-                      _this35.resetDadosCart();
+                      _this36.resetDadosCart();
                     });
                   });
                 });
               } catch (error) {
-                _this35.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+                _this36.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                   title: "Erro ao gerar pagamento.",
                   message: error.message
                 });
 
-                _this35.errors.push(error.message);
+                _this36.errors.push(error.message);
 
-                _this35.disableFinalizarBtn = false;
+                _this36.disableFinalizarBtn = false;
               }
             }
           });
@@ -16636,40 +16650,40 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "excluirCartao0",
         value: function excluirCartao0(cartao) {
-          var _this36 = this;
-
-          this.modalS.createModal(_modais_md_deletcard_md_deletcard_component__WEBPACK_IMPORTED_MODULE_1__["MdDeletcardComponent"], {
-            cartao: cartao
-          }).then(function (res) {
-            if (res == true) {
-              _this36.responseData[0] = null;
-              _this36.cartS.tokenCard = null;
-            }
-          });
-        }
-      }, {
-        key: "excluirCartao1",
-        value: function excluirCartao1(cartao) {
           var _this37 = this;
 
           this.modalS.createModal(_modais_md_deletcard_md_deletcard_component__WEBPACK_IMPORTED_MODULE_1__["MdDeletcardComponent"], {
             cartao: cartao
           }).then(function (res) {
             if (res == true) {
-              _this37.responseData[1] = null;
+              _this37.responseData[0] = null;
+              _this37.cartS.tokenCard = null;
             }
           });
         }
       }, {
-        key: "excluirCartao2",
-        value: function excluirCartao2(cartao) {
+        key: "excluirCartao1",
+        value: function excluirCartao1(cartao) {
           var _this38 = this;
 
           this.modalS.createModal(_modais_md_deletcard_md_deletcard_component__WEBPACK_IMPORTED_MODULE_1__["MdDeletcardComponent"], {
             cartao: cartao
           }).then(function (res) {
             if (res == true) {
-              _this38.responseData[2] = null;
+              _this38.responseData[1] = null;
+            }
+          });
+        }
+      }, {
+        key: "excluirCartao2",
+        value: function excluirCartao2(cartao) {
+          var _this39 = this;
+
+          this.modalS.createModal(_modais_md_deletcard_md_deletcard_component__WEBPACK_IMPORTED_MODULE_1__["MdDeletcardComponent"], {
+            cartao: cartao
+          }).then(function (res) {
+            if (res == true) {
+              _this39.responseData[2] = null;
             }
           });
         }
@@ -16756,7 +16770,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "aplicarCupom",
         value: function aplicarCupom() {
-          var _this39 = this;
+          var _this40 = this;
 
           if (!this.codCupom) {
             return;
@@ -16766,10 +16780,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           try {
             this.pedidoS.cupomDesconto(this.codCupom).subscribe(function (res) {
-              _this39.loadingCupom = false;
+              _this40.loadingCupom = false;
 
               if (res.error) {
-                _this39.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
+                _this40.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_6__["MdAlertComponent"], {
                   title: "Cupom de Desconto",
                   message: res.error
                 });
@@ -16777,21 +16791,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 return;
               }
 
-              _this39.cartS.cupom = res[0];
+              _this40.cartS.cupom = res[0];
 
               if (res[0].tipo === "VALOR") {
-                _this39.cartS.desconto = res[0].valor;
+                _this40.cartS.desconto = res[0].valor;
               }
 
               if (res[0].tipo === "INDICE") {
-                _this39.cartS.desconto = _this39.cartS.cart.valorTotalItems * res[0].valor / 100;
+                _this40.cartS.desconto = _this40.cartS.cart.valorTotalItems * res[0].valor / 100;
               }
 
-              _this39.setValorTotal();
+              _this40.setValorTotal();
 
-              _this39.renderBtnPayPal();
+              _this40.renderBtnPayPal();
 
-              _this39.cupomAplicado = true;
+              _this40.cupomAplicado = true;
             });
           } catch (error) {
             this.loadingCupom = false;
@@ -16801,22 +16815,22 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "retirarCupom",
         value: function retirarCupom() {
-          var _this40 = this;
+          var _this41 = this;
 
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_7__["MdConfirmComponent"], {
             title: "Cupom de Desconto",
             message: "Deseja retirar o cupom de desconto?"
           }).then(function (confirm) {
             if (confirm) {
-              _this40.codCupom = null;
-              _this40.cartS.cupom = null;
-              _this40.cartS.desconto = 0;
+              _this41.codCupom = null;
+              _this41.cartS.cupom = null;
+              _this41.cartS.desconto = 0;
 
-              _this40.setValorTotal();
+              _this41.setValorTotal();
 
-              _this40.renderBtnPayPal();
+              _this41.renderBtnPayPal();
 
-              _this40.cupomAplicado = false;
+              _this41.cupomAplicado = false;
             }
           });
         }
@@ -18372,13 +18386,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/cliente/pedidos"];
@@ -18499,13 +18513,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -18541,7 +18555,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -18553,13 +18567,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function CadastroComponent_div_32_Template(rf, ctx) {
       if (rf & 1) {
@@ -18878,7 +18892,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "buscarCep",
         value: function buscarCep(cep) {
-          var _this41 = this;
+          var _this42 = this;
 
           if (!cep) {
             return;
@@ -18891,18 +18905,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             var urlViacep = "https://viacep.com.br/ws/".concat(cep, "/json/");
             this.http.get(urlViacep).subscribe(function (res) {
               if (res.erro) {
-                _this41.formCadastro.patchValue({
+                _this42.formCadastro.patchValue({
                   cep: ''
                 });
 
-                _this41.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                _this42.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                   title: 'CEP não encontrado.',
                   message: 'Verifique o CEP digitado e tente novamente.'
                 });
 
                 return;
               } else {
-                _this41.formCadastro.patchValue({
+                _this42.formCadastro.patchValue({
                   cep: cep,
                   logradouro: res.logradouro,
                   bairro: res.bairro,
@@ -18928,7 +18942,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "salvarDados",
         value: function salvarDados($event) {
-          var _this42 = this;
+          var _this43 = this;
 
           try {
             this.checkPais();
@@ -18956,25 +18970,25 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             this.loading = true;
             this.userS.updatePessoa($event, this.formCadastro.value).subscribe(function (res) {
-              _this42.checkForm();
+              _this43.checkForm();
 
-              _this42.userS.user = res;
+              _this43.userS.user = res;
 
-              if (_this42.firstLogin === true) {
-                _this42.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+              if (_this43.firstLogin === true) {
+                _this43.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                   title: 'Cadastro',
                   message: 'Cadastro concluido com sucesso!'
                 });
 
-                _this42.router.navigate(['/']);
+                _this43.router.navigate(['/']);
               } else {
-                _this42.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                _this43.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                   title: 'Cadastro',
                   message: 'Cadastro atualizado com sucesso!'
                 });
               }
 
-              _this42.loading = false;
+              _this43.loading = false;
             });
           } catch (error) {
             this.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
@@ -19691,7 +19705,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -19703,7 +19717,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/"];
@@ -19956,7 +19970,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -19986,13 +20000,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function EnderecosComponent_article_34_Template(rf, ctx) {
       if (rf & 1) {
@@ -20279,7 +20293,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "excluirEndereco",
         value: function excluirEndereco(index, $event) {
-          var _this43 = this;
+          var _this44 = this;
 
           var form = {};
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_1__["MdConfirmComponent"], {
@@ -20289,7 +20303,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             if (res) {
               if (index === 1) {
                 form = {
-                  id: _this43.userS.user.id,
+                  id: _this44.userS.user.id,
                   logradouro: null,
                   numero: null,
                   uf: null,
@@ -20300,7 +20314,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 };
               } else {
                 form = {
-                  id: _this43.userS.user.id,
+                  id: _this44.userS.user.id,
                   cobrLogradouro: null,
                   cobrNumero: null,
                   cobrUf: null,
@@ -20311,8 +20325,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 };
               }
 
-              _this43.userS.excluirEndereco(form, $event).subscribe(function (resExc) {
-                _this43.userS.user = resExc;
+              _this44.userS.excluirEndereco(form, $event).subscribe(function (resExc) {
+                _this44.userS.user = resExc;
               });
             }
           });
@@ -20558,7 +20572,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -20570,7 +20584,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/"];
@@ -20823,7 +20837,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -20859,13 +20873,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     var _c0 = function _c0() {
       return ["/cliente/enderecos"];
@@ -20981,11 +20995,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(MinhaContaComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this44 = this;
+          var _this45 = this;
 
           if (this.userS.user) {
             this.pedidoS.getClientPedidos().subscribe(function (res) {
-              _this44.pedidos = res;
+              _this45.pedidos = res;
             });
           } else {
             this.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
@@ -20997,16 +21011,16 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "excluirConta",
         value: function excluirConta() {
-          var _this45 = this;
+          var _this46 = this;
 
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_2__["MdConfirmComponent"], {
             title: 'Excluir Conta',
             message: 'Deseja excluir seu cadastro? Essa ação não é reversível e irá desativar sua conta!'
           }).then(function (res) {
             if (res) {
-              _this45.userS.excluirConta(_this45.userS.user.id).subscribe(function (resExc) {
+              _this46.userS.excluirConta(_this46.userS.user.id).subscribe(function (resExc) {
                 if (resExc.error) {
-                  _this45.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
+                  _this46.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
                     title: 'Excluir Cadastro',
                     message: resExc.error
                   });
@@ -21014,12 +21028,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                   return;
                 }
 
-                _this45.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
+                _this46.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
                   title: 'Excluir Cadastro',
                   message: resExc
                 });
 
-                _this45.userS.logoff();
+                _this46.userS.logoff();
               });
             }
           });
@@ -21321,7 +21335,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -21351,13 +21365,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function PedidosComponent_div_30_Template(rf, ctx) {
       if (rf & 1) {
@@ -22566,12 +22580,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(PedidosComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this46 = this;
+          var _this47 = this;
 
           if (this.userS.user) {
             this.pedidoS.getClientPedidos().subscribe(function (res) {
-              _this46.pedidos = res;
-              _this46.loading = false;
+              _this47.pedidos = res;
+              _this47.loading = false;
             });
           } else {
             this.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
@@ -22809,7 +22823,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -22827,7 +22841,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -22851,7 +22865,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function StatusPedidoComponent_div_30_Template(rf, ctx) {
       if (rf & 1) {
@@ -23796,27 +23810,27 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(StatusPedidoComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this47 = this;
+          var _this48 = this;
 
           this.activeRoute.params.subscribe(function (params) {
             if (!params.id) {
-              _this47.router.navigate(['/']);
+              _this48.router.navigate(['/']);
             }
 
-            _this47.pedidoS.getById(params.id, _this47.userS.user.id).subscribe(function (res) {
+            _this48.pedidoS.getById(params.id, _this48.userS.user.id).subscribe(function (res) {
               if (res.error) {
-                _this47.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
+                _this48.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_1__["MdAlertComponent"], {
                   title: 'Pedido não encontrado.',
                   message: res.error + ' Favor entrar em contato com a nossa equipe.'
                 });
 
-                _this47.router.navigate(['/']);
+                _this48.router.navigate(['/']);
 
                 return;
               }
 
-              _this47.loading = false;
-              _this47.pedido = res[0];
+              _this48.loading = false;
+              _this48.pedido = res[0];
             });
           });
         }
@@ -24036,7 +24050,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -24048,19 +24062,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
 
     function ContatoComponent_div_14_Template(rf, ctx) {
       if (rf & 1) {
@@ -24535,7 +24549,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -24547,13 +24561,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function DepoimentosComponent_div_9_Template(rf, ctx) {
       if (rf & 1) {
@@ -25018,13 +25032,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/"];
@@ -25983,7 +25997,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -26019,13 +26033,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
@@ -26037,7 +26051,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -31407,24 +31421,24 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(HomeComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this48 = this;
+          var _this49 = this;
 
           this.hotsite = localStorage.getItem('hotsite') === 'true' || false;
           this.store.getItensByCateg(393).subscribe(function (resB) {
             for (var i = 0; i <= 200; i++) {
               if (resB[i]) {
-                _this48.produtosDiasNamorado.push(resB[i]);
+                _this49.produtosDiasNamorado.push(resB[i]);
               }
             }
 
-            _this48.produtosDiasNamorado = _this48.produtosDiasNamorado.filter(function (produto) {
+            _this49.produtosDiasNamorado = _this49.produtosDiasNamorado.filter(function (produto) {
               var _a;
 
               return produto.estoque !== null || ((_a = produto.estoque) === null || _a === void 0 ? void 0 : _a.estAtual) > 0;
             });
           });
           setTimeout(function () {
-            _this48.verifyProdutoBox();
+            _this49.verifyProdutoBox();
           }, 8000);
         }
       }, {
@@ -31552,13 +31566,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -31576,7 +31590,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -31588,7 +31602,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function ImprensaComponent_div_10_div_32_label_1_Template(rf, ctx) {
       if (rf & 1) {
@@ -32448,13 +32462,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -32472,13 +32486,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -32756,92 +32770,92 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(ListaComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this49 = this;
+          var _this50 = this;
 
           this.activRoute.data.subscribe(function (res) {
             if (res.exactMatch) {
-              _this49.exactMatch = true;
+              _this50.exactMatch = true;
             }
           });
           this.activRoute.params.subscribe(function (res) {
-            _this49.loading = true;
-            _this49.slicedItems = [];
-            _this49.totalItens = 0;
+            _this50.loading = true;
+            _this50.slicedItems = [];
+            _this50.totalItens = 0;
 
             switch (res.tipo) {
               case 'categoria':
-                var paramId = _this49.activRoute.snapshot.queryParams.id;
+                var paramId = _this50.activRoute.snapshot.queryParams.id;
 
                 if (!paramId) {
                   return;
                 }
 
-                _this49.storeS.getItensByCateg(paramId).subscribe(function (resB) {
+                _this50.storeS.getItensByCateg(paramId).subscribe(function (resB) {
                   scrollTo(0, 300);
-                  _this49.slicedItems = [];
+                  _this50.slicedItems = [];
 
                   for (var i = 0; i <= 200; i++) {
                     if (resB[i]) {
-                      _this49.slicedItems.push(resB[i]);
+                      _this50.slicedItems.push(resB[i]);
                     }
                   }
 
-                  _this49.totalItens = Object.keys(resB).length;
+                  _this50.totalItens = Object.keys(resB).length;
 
-                  var _this49$partition = _this49.partition(_this49.slicedItems, function (e) {
+                  var _this50$partition = _this50.partition(_this50.slicedItems, function (e) {
                     var _a;
 
                     return ((_a = e.estoque) === null || _a === void 0 ? void 0 : _a.estAtual) > 0;
                   });
 
-                  var _this49$partition2 = _slicedToArray(_this49$partition, 2);
+                  var _this50$partition2 = _slicedToArray(_this50$partition, 2);
 
-                  _this49.estoque = _this49$partition2[0];
-                  _this49.indisponivel = _this49$partition2[1];
-                  _this49.slicedItems = [].concat(_toConsumableArray(_this49.estoque), _toConsumableArray(_this49.indisponivel)); // this.gTagS.viewItemList(this.slicedItems, res.termo.replace(/-/g, ' '));
+                  _this50.estoque = _this50$partition2[0];
+                  _this50.indisponivel = _this50$partition2[1];
+                  _this50.slicedItems = [].concat(_toConsumableArray(_this50.estoque), _toConsumableArray(_this50.indisponivel)); // this.gTagS.viewItemList(this.slicedItems, res.termo.replace(/-/g, ' '));
 
-                  _this49.loading = false;
+                  _this50.loading = false;
                 });
 
                 break;
 
               case 'search':
-                _this49.storeS.getItensBySearchTerm(res.termo.replace(/-/g, ' '), _this49.exactMatch).subscribe(function (resC) {
+                _this50.storeS.getItensBySearchTerm(res.termo.replace(/-/g, ' '), _this50.exactMatch).subscribe(function (resC) {
                   scrollTo(0, 300);
 
                   if (resC.length > 0) {
-                    _this49.slicedItems = resC;
-                    _this49.totalItens = resC.length;
+                    _this50.slicedItems = resC;
+                    _this50.totalItens = resC.length;
 
-                    var _this49$partition3 = _this49.partition(_this49.slicedItems, function (e) {
+                    var _this50$partition3 = _this50.partition(_this50.slicedItems, function (e) {
                       var _a;
 
                       return ((_a = e.estoque) === null || _a === void 0 ? void 0 : _a.estAtual) > 0;
                     });
 
-                    var _this49$partition4 = _slicedToArray(_this49$partition3, 2);
+                    var _this50$partition4 = _slicedToArray(_this50$partition3, 2);
 
-                    _this49.estoque = _this49$partition4[0];
-                    _this49.indisponivel = _this49$partition4[1];
-                    _this49.slicedItems = [].concat(_toConsumableArray(_this49.estoque), _toConsumableArray(_this49.indisponivel));
+                    _this50.estoque = _this50$partition4[0];
+                    _this50.indisponivel = _this50$partition4[1];
+                    _this50.slicedItems = [].concat(_toConsumableArray(_this50.estoque), _toConsumableArray(_this50.indisponivel));
 
-                    _this49.gTagS.viewItemList(_this49.slicedItems, res.termo.replace(/-/g, ' '));
+                    _this50.gTagS.viewItemList(_this50.slicedItems, res.termo.replace(/-/g, ' '));
                   }
 
-                  _this49.loading = false;
+                  _this50.loading = false;
                 });
 
                 break;
 
               default:
-                _this49.loading = false;
+                _this50.loading = false;
                 break;
             }
           });
           setTimeout(function () {
-            _this49.updateSlicedItems();
+            _this50.updateSlicedItems();
 
-            _this49.updateNumeroPaginas();
+            _this50.updateNumeroPaginas();
           });
         }
       }, {
@@ -33048,13 +33062,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -33084,7 +33098,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -33114,7 +33128,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function LoginComponent_div_35_Template(rf, ctx) {
       if (rf & 1) {
@@ -33396,7 +33410,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "login",
         value: function login($event) {
-          var _this50 = this;
+          var _this51 = this;
 
           if (this.frmLogin.invalid) {
             return;
@@ -33409,16 +33423,16 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
               grecaptcha.execute(src_environments_environment__WEBPACK_IMPORTED_MODULE_5__["environment"].recaptchaToken, {
                 action: 'LOGIN'
               }).then(function (token) {
-                _this50.frmLogin.patchValue({
+                _this51.frmLogin.patchValue({
                   token: token
                 });
 
-                _this50.userS.login($event, _this50.frmLogin.value, false).subscribe(function (res) {
-                  _this50.loading = false;
+                _this51.userS.login($event, _this51.frmLogin.value, false).subscribe(function (res) {
+                  _this51.loading = false;
 
                   if (res.error) {
                     if (res.error.startsWith('Número de tentativas excedido')) {
-                      _this50.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                      _this51.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                         title: 'Número de tentativas excedido.',
                         message: res.error
                       });
@@ -33427,7 +33441,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                     }
 
                     if (res.error.startsWith('Usuário ou senha')) {
-                      _this50.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                      _this51.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                         title: 'Usuário ou senha inválidos.',
                         message: 'Verifique os dados digitados e tente novamente.'
                       });
@@ -33435,7 +33449,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                       return;
                     }
 
-                    _this50.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                    _this51.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                       title: 'Erro ao realizar login.',
                       message: res.error
                     });
@@ -33443,27 +33457,27 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                     return;
                   }
 
-                  _this50.userS.user = res.user;
-                  _this50.userS.jwt = res.jwt;
+                  _this51.userS.user = res.user;
+                  _this51.userS.jwt = res.jwt;
 
-                  _this50.pedidoS.checkAbandonedCart();
+                  _this51.pedidoS.checkAbandonedCart();
 
-                  _this50.gTagS.login(res.user.id);
+                  _this51.gTagS.login(res.user.id);
 
                   if (localStorage.getItem('goCheckout') === 'true') {
-                    _this50.router.navigate(['/carrinho']);
+                    _this51.router.navigate(['/carrinho']);
 
                     return;
                   }
 
                   if (localStorage.getItem('goAbandonedCart')) {
-                    _this50.router.navigate(['/carrinho/' + localStorage.getItem('goAbandonedCart')]);
+                    _this51.router.navigate(['/carrinho/' + localStorage.getItem('goAbandonedCart')]);
 
                     localStorage.removeItem('goAbandonedCart');
                     return;
                   }
 
-                  _this50.router.navigate(['/']);
+                  _this51.router.navigate(['/']);
                 });
               });
             });
@@ -33481,7 +33495,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "register",
         value: function register($event) {
-          var _this51 = this;
+          var _this52 = this;
 
           this.checkPais();
 
@@ -33500,30 +33514,30 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
               grecaptcha.execute(src_environments_environment__WEBPACK_IMPORTED_MODULE_5__["environment"].recaptchaToken, {
                 action: 'REGISTER'
               }).then(function (token) {
-                _this51.userS.registerPessoa($event, _this51.frmCadastro.value).subscribe(function (res) {
+                _this52.userS.registerPessoa($event, _this52.frmCadastro.value).subscribe(function (res) {
                   var _a, _b;
 
                   if (((_a = res.data) === null || _a === void 0 ? void 0 : _a.error) || res.error) {
-                    _this51.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
+                    _this52.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_4__["MdAlertComponent"], {
                       title: 'Erro ao cadastrar!',
                       message: ((_b = res.data) === null || _b === void 0 ? void 0 : _b.error) || res.error
                     });
 
-                    _this51.loadingReg = false;
+                    _this52.loadingReg = false;
                     return;
                   }
 
-                  _this51.userS.login($event, {
-                    email: _this51.frmCadastro.value.email,
-                    password: _this51.frmCadastro.value.password,
+                  _this52.userS.login($event, {
+                    email: _this52.frmCadastro.value.email,
+                    password: _this52.frmCadastro.value.password,
                     token: token
                   }, false).subscribe(function (resl) {
-                    _this51.userS.user = resl.user;
-                    _this51.userS.jwt = resl.jwt;
+                    _this52.userS.user = resl.user;
+                    _this52.userS.jwt = resl.jwt;
 
-                    _this51.router.navigate(['/cliente/cadastro']);
+                    _this52.router.navigate(['/cliente/cadastro']);
 
-                    _this51.loadingReg = false;
+                    _this52.loadingReg = false;
                   });
                 });
               });
@@ -33978,7 +33992,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var MdAlertComponent = /*#__PURE__*/function () {
       function MdAlertComponent() {
@@ -34128,13 +34142,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -34164,7 +34178,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function MdAlterarsenhaComponent_div_21_p_1_Template(rf, ctx) {
       if (rf & 1) {
@@ -34267,7 +34281,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "alterarSenha",
         value: function alterarSenha(event) {
-          var _this52 = this;
+          var _this53 = this;
 
           if (this.form.value.senhaAtual === this.form.value.novaSenha) {
             this.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
@@ -34278,9 +34292,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           }
 
           this.userS.alterarSenha(event, this.form.value).subscribe(function (res) {
-            _this52.modal.close();
+            _this53.modal.close();
 
-            _this52.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
+            _this53.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
               title: 'Nova Senha',
               message: 'Senha alterada com sucesso!'
             });
@@ -34490,7 +34504,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var MyCardlimitComponent = /*#__PURE__*/function () {
       function MyCardlimitComponent() {
@@ -34630,7 +34644,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var MdConfirmComponent = /*#__PURE__*/function () {
       function MdConfirmComponent() {
@@ -34806,7 +34820,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -34986,7 +35000,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -34998,13 +35012,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
 
     function MdEsquecisenhaComponent_div_10_Template(rf, ctx) {
       if (rf & 1) {
@@ -35117,10 +35131,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "esqueciSenha",
         value: function esqueciSenha($event) {
-          var _this53 = this;
+          var _this54 = this;
 
           this.userS.esqueciSenha(this.email, $event).subscribe(function (res) {
-            _this53.enviado = true;
+            _this54.enviado = true;
           });
         }
       }]);
@@ -35238,7 +35252,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var MdImageComponent = /*#__PURE__*/function () {
       function MdImageComponent() {
@@ -35353,7 +35367,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -35383,13 +35397,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/cliente/cadastro"];
@@ -35591,7 +35605,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "excluirEndereco",
         value: function excluirEndereco(index, $event) {
-          var _this54 = this;
+          var _this55 = this;
 
           $event.stopPropagation();
           var form = {};
@@ -35602,7 +35616,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             if (res) {
               if (index === 1) {
                 form = {
-                  id: _this54.userS.user.id,
+                  id: _this55.userS.user.id,
                   logradouro: null,
                   numero: null,
                   uf: null,
@@ -35613,7 +35627,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 };
               } else {
                 form = {
-                  id: _this54.userS.user.id,
+                  id: _this55.userS.user.id,
                   cobrLogradouro: null,
                   cobrNumero: null,
                   cobrUf: null,
@@ -35624,10 +35638,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 };
               }
 
-              _this54.userS.excluirEndereco(form, $event).subscribe(function (resExc) {
-                _this54.userS.user = resExc;
+              _this55.userS.excluirEndereco(form, $event).subscribe(function (resExc) {
+                _this55.userS.user = resExc;
 
-                _this54.modal.close();
+                _this55.modal.close();
               });
             }
           });
@@ -35756,13 +35770,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -35780,13 +35794,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function MdNaoseicepComponent_form_10_Template(rf, ctx) {
       if (rf & 1) {
@@ -36112,7 +36126,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "buscarCep",
         value: function buscarCep($event) {
-          var _this55 = this;
+          var _this56 = this;
 
           if (this.formEnd.invalid) {
             return;
@@ -36121,7 +36135,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           src_app_interceptors_erp_interceptor__WEBPACK_IMPORTED_MODULE_3__["ErpInterceptor"].useErpHeader = false;
           var url = "https://viacep.com.br/ws/".concat(this.formEnd.value.uf, "/").concat(this.formEnd.value.cidade, "/").concat(this.formEnd.value.logradouro, "/json/");
           this.http.get(url).pipe(Object(src_app_core_Functions__WEBPACK_IMPORTED_MODULE_2__["btnLoading"])($event)).subscribe(function (res) {
-            _this55.endArr = res;
+            _this56.endArr = res;
           });
         }
       }, {
@@ -36255,7 +36269,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -36267,7 +36281,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function MdRegiaoComponent_div_12_Template(rf, ctx) {
       if (rf & 1) {
@@ -36595,13 +36609,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -36619,7 +36633,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -36668,7 +36682,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "buscarCep",
         value: function buscarCep(cep) {
-          var _this56 = this;
+          var _this57 = this;
 
           if (!cep) {
             return;
@@ -36682,18 +36696,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             var urlViacep = "https://viacep.com.br/ws/".concat(cep, "/json/");
             this.http.get(urlViacep).subscribe(function (res) {
               if (res.erro) {
-                _this56.form.patchValue({
+                _this57.form.patchValue({
                   cep: ''
                 });
 
-                _this56.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
+                _this57.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
                   title: 'CEP não encontrado.',
                   message: 'Verifique o CEP digitado e tente novamente.'
                 });
 
                 return;
               } else {
-                _this56.form.patchValue({
+                _this57.form.patchValue({
                   cep: cep,
                   logradouro: res.logradouro,
                   bairro: res.bairro,
@@ -36748,15 +36762,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "updateEndereco",
         value: function updateEndereco($event) {
-          var _this57 = this;
+          var _this58 = this;
 
           this.setupEnvio();
           this.userS.updateEndereco(this.formEnvio, $event).subscribe(function (res) {
-            _this57.userS.user = res;
+            _this58.userS.user = res;
 
-            _this57.modal.close();
+            _this58.modal.close();
 
-            _this57.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
+            _this58.modalS.createModal(_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
               title: 'Endereço',
               message: 'Endereço salvo com sucesso!'
             });
@@ -37009,13 +37023,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -37033,7 +37047,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -37045,7 +37059,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function NewsletterComponent_span_15_Template(rf, ctx) {
       if (rf & 1) {
@@ -38191,13 +38205,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var RedirectNewsletterComponent = /*#__PURE__*/function () {
       function RedirectNewsletterComponent(router) {
@@ -38338,7 +38352,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -38350,13 +38364,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/"];
@@ -39561,7 +39575,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -39609,7 +39623,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -39627,7 +39641,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -39639,13 +39653,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "./node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
+    "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function ProdutoComponent_div_0_div_1_Template(rf, ctx) {
       if (rf & 1) {
@@ -40730,7 +40744,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(ProdutoComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this58 = this;
+          var _this59 = this;
 
           // const teste = {
           //   order_id: 1342432432432432423423,
@@ -40759,51 +40773,51 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           //   console.log(res);
           // });
           this.activRoute.queryParams.subscribe(function (params) {
-            _this58.loading = true;
+            _this59.loading = true;
 
             if (!params.id) {
               return;
             }
 
-            _this58.itemId = params.id;
+            _this59.itemId = params.id;
             setTimeout(function () {
-              _this58.storeS.getItemById(_this58.itemId).subscribe(function (resItem) {
+              _this59.storeS.getItemById(_this59.itemId).subscribe(function (resItem) {
                 var _a, _b, _c;
 
-                _this58.item = resItem;
+                _this59.item = resItem;
 
-                if (!((_b = (_a = _this58.item) === null || _a === void 0 ? void 0 : _a.tabela) === null || _b === void 0 ? void 0 : _b.vVenda)) {
-                  _this58.loading = false;
+                if (!((_b = (_a = _this59.item) === null || _a === void 0 ? void 0 : _a.tabela) === null || _b === void 0 ? void 0 : _b.vVenda)) {
+                  _this59.loading = false;
                   return;
                 }
 
-                _this58.loading = false;
+                _this59.loading = false;
 
                 if (resItem.error) {
-                  _this58.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
+                  _this59.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
                     title: 'Produto não encontrado.',
                     message: resItem.error
                   });
 
-                  _this58.router.navigate(['/']);
+                  _this59.router.navigate(['/']);
 
                   return;
                 }
 
-                if (!_this58.item.item_linkWeb) {
+                if (!_this59.item.item_linkWeb) {
                   throw new Error('Item não cadastrado corretamente, verifique a propriedade item_linkWeb');
                 }
 
-                _this58.titleService.setTitle((_c = _this58.item.item_linkWeb) === null || _c === void 0 ? void 0 : _c.linkWeb.titulo);
+                _this59.titleService.setTitle((_c = _this59.item.item_linkWeb) === null || _c === void 0 ? void 0 : _c.linkWeb.titulo);
 
                 setTimeout(function () {
-                  _this58.setDescricao(); // this.tvS.configTrustvox(this.item);
+                  _this59.setDescricao(); // this.tvS.configTrustvox(this.item);
 
                 });
-                _this58.noItem = false;
-                _this58.item.quantidade = 1;
+                _this59.noItem = false;
+                _this59.item.quantidade = 1;
 
-                _this58.gTagS.viewItem(_this58.item);
+                _this59.gTagS.viewItem(_this59.item);
               });
             }, 2000);
           });
@@ -40818,21 +40832,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "addToCart",
         value: function addToCart() {
-          var _this59 = this;
+          var _this60 = this;
 
           this.modalS.createModal(_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_2__["MdConfirmComponent"], {
             title: 'Adicionar ao carrinho.',
             message: 'Deseja adicionar este item ao carrinho?'
           }).then(function (res) {
             if (res) {
-              _this59.item.quantidade = _this59.quantidade;
-              _this59.item.descricao = _this59.item.item_linkWeb.linkWeb.titulo;
+              _this60.item.quantidade = _this60.quantidade;
+              _this60.item.descricao = _this60.item.item_linkWeb.linkWeb.titulo;
 
-              _this59.cartS.addItem(_this59.item);
+              _this60.cartS.addItem(_this60.item);
 
-              _this59.gTagS.addToCart(_this59.item);
+              _this60.gTagS.addToCart(_this60.item);
 
-              _this59.router.navigate(['/carrinho']);
+              _this60.router.navigate(['/carrinho']);
             }
           });
         }
@@ -40950,7 +40964,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -40962,13 +40976,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var _c0 = function _c0() {
       return ["/"];
@@ -41529,13 +41543,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -41553,7 +41567,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -41571,7 +41585,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function RedefinirSenhaComponent_div_24_p_1_Template(rf, ctx) {
       if (rf & 1) {
@@ -41687,14 +41701,14 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(RedefinirSenhaComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          var _this60 = this;
+          var _this61 = this;
 
           this.activeRoute.params.subscribe(function (params) {
             if (!params.code) {
-              _this60.router.navigate(['/']);
+              _this61.router.navigate(['/']);
             }
 
-            _this60.code = params.code;
+            _this61.code = params.code;
           });
           this.setupForm();
         }
@@ -41712,11 +41726,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "redefinirSenha",
         value: function redefinirSenha($event) {
-          var _this61 = this;
+          var _this62 = this;
 
           this.userS.redefinirSenha(this.formRedefinirSenha.value, $event).subscribe(function (res) {
             if (res.error) {
-              _this61.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
+              _this62.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
                 title: 'Erro ao criar nova senha.',
                 message: res.error
               });
@@ -41724,12 +41738,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
               return;
             }
 
-            _this61.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
+            _this62.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_3__["MdAlertComponent"], {
               title: 'Redefinição de senha.',
               message: 'Senha alterada com sucesso!'
             });
 
-            _this61.router.navigate(['/login']);
+            _this62.router.navigate(['/login']);
           });
         }
       }, {
@@ -41966,13 +41980,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/forms */
-    "./node_modules/@angular/forms/fesm2015/forms.js");
+    "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
     /* harmony import */
 
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -41984,7 +41998,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
     /* harmony import */
 
 
@@ -42002,7 +42016,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     function TrabalheConoscoComponent_label_31_Template(rf, ctx) {
       if (rf & 1) {
@@ -42106,7 +42120,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "submitForm",
         value: function submitForm($event) {
-          var _this62 = this;
+          var _this63 = this;
 
           //  if (this.formTrabalheConosco.invalid) {
           //    this.showErrors = true;
@@ -42115,18 +42129,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           //    else {
           document.getElementById('btnSubmit').classList.add('disable');
           this.getBase64(this.formTrabalheConosco.value.curriculo).then(function (res) {
-            _this62.trabalheS.postFile({
+            _this63.trabalheS.postFile({
               doc: res
             }, $event).subscribe(function (resp) {});
 
-            _this62.router.navigate(['/']);
+            _this63.router.navigate(['/']);
 
-            _this62.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_2__["MdAlertComponent"], {
+            _this63.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_2__["MdAlertComponent"], {
               title: 'Formulário preenchido com sucesso',
               message: 'Agora é só aguardar nosso contato!'
             });
           })["catch"](function (error) {
-            _this62.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_2__["MdAlertComponent"], {
+            _this63.modalS.createModal(_modais_md_alert_md_alert_component__WEBPACK_IMPORTED_MODULE_2__["MdAlertComponent"], {
               title: 'Não conseguimos ler o arquivo',
               message: 'Tente novamente ou escolha outro formato de arquivo!'
             });
@@ -42376,7 +42390,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -42471,7 +42485,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -42483,7 +42497,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var AuthGuard = /*#__PURE__*/function () {
       function AuthGuard(userS, router) {
@@ -42567,7 +42581,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -42657,7 +42671,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -42675,13 +42689,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
 
     var cartInit = {
       cliente: {},
@@ -42778,6 +42792,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         key: "getTransportePeriodo",
         value: function getTransportePeriodo(empId) {
           return this.http.post(_environments_environment__WEBPACK_IMPORTED_MODULE_1__["environment"].API_URL + 'transporte/getPeriodo', {
+            empId: empId
+          });
+        }
+      }, {
+        key: "getTransporteMetodo",
+        value: function getTransporteMetodo(empId) {
+          return this.http.post(_environments_environment__WEBPACK_IMPORTED_MODULE_1__["environment"].API_URL + 'transporte/getAll', {
             empId: empId
           });
         }
@@ -42941,7 +42962,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -42953,7 +42974,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var FloresGuard = /*#__PURE__*/function () {
       function FloresGuard(router) {
@@ -43028,7 +43049,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var GoogleAnalyticsService = /*#__PURE__*/function () {
       function GoogleAnalyticsService() {
@@ -43329,7 +43350,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -43365,7 +43386,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
     var map = __webpack_require__(
     /*! ../../assets/language.json */
@@ -43460,7 +43481,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var ModalService = /*#__PURE__*/function () {
       function ModalService(componentFactoryResolver) {
@@ -43472,14 +43493,14 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(ModalService, [{
         key: "createModal",
         value: function createModal(component) {
-          var _this63 = this;
+          var _this64 = this;
 
           var data = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
           // Caso já tenha um modal aberto, ignorar
           return new Promise(function (resolve) {
-            var componentFactory = _this63.componentFactoryResolver.resolveComponentFactory(component);
+            var componentFactory = _this64.componentFactoryResolver.resolveComponentFactory(component);
 
-            var viewContainerRef = _this63.bootstrapModal;
+            var viewContainerRef = _this64.bootstrapModal;
             var componentRef = viewContainerRef.createComponent(componentFactory);
             var jqInstance = $(componentRef.location.nativeElement.querySelector('.modal'));
 
@@ -43564,7 +43585,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -43582,7 +43603,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
 
     var BancobrasilService = /*#__PURE__*/function () {
       function BancobrasilService(http) {
@@ -43663,7 +43684,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -43675,7 +43696,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -43773,7 +43794,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -43785,7 +43806,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
 
     var PaypalService = /*#__PURE__*/function () {
       function PaypalService(http) {
@@ -43857,7 +43878,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -43875,7 +43896,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
 
     var PicpayService = /*#__PURE__*/function () {
       function PicpayService(http) {
@@ -43953,7 +43974,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -43971,7 +43992,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -43995,7 +44016,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var PedidoService = /*#__PURE__*/function () {
       function PedidoService(http, userS, modalS, cartS, router) {
@@ -44042,12 +44063,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "checkAbandonedCart",
         value: function checkAbandonedCart() {
-          var _this64 = this;
+          var _this65 = this;
 
           if (localStorage.getItem('abandonedCart') !== 'false') {
             setTimeout(function () {
               if (JSON.parse(localStorage.getItem('user'))) {
-                _this64.getClientPedidos().subscribe(function (clientPedidos) {
+                _this65.getClientPedidos().subscribe(function (clientPedidos) {
                   var _iterator8 = _createForOfIteratorHelper(clientPedidos),
                       _step8;
 
@@ -44056,15 +44077,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                       var pedido = _step8.value;
 
                       if (pedido.status === 'Abandonado' && !pedido.pago && !pedido.pedido_id) {
-                        _this64.modalS.createModal(_pages_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_2__["MdConfirmComponent"], {
+                        _this65.modalS.createModal(_pages_modais_md_confirm_md_confirm_component__WEBPACK_IMPORTED_MODULE_2__["MdConfirmComponent"], {
                           title: 'Recuperar Carrinho?',
                           message: 'Parece que você deixou um carrinho abandonado, deseja recuperar o carrinho?'
                         }).then(function (res) {
                           if (res) {
-                            _this64.cartS.entrega = pedido.json.entrega;
-                            _this64.cartS.item = pedido.json.item;
+                            _this65.cartS.entrega = pedido.json.entrega;
+                            _this65.cartS.item = pedido.json.item;
 
-                            _this64.router.navigate(['/carrinho']);
+                            _this65.router.navigate(['/carrinho']);
                           } else {
                             localStorage.setItem('abandonedCart', 'false');
                           }
@@ -44149,19 +44170,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "./node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
+    "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
     /* harmony import */
 
 
@@ -44179,7 +44200,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -44255,29 +44276,29 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "setLayout",
         value: function setLayout(layout) {
-          var _this65 = this;
+          var _this66 = this;
 
           this.layout = layout; // Layout Ready - setTimeout pois alguns components podem dar listener nesse evento depois de disparado
 
           setTimeout(function () {
-            return _this65.$layoutReady.emit();
+            return _this66.$layoutReady.emit();
           });
           return this.layout;
         }
       }, {
         key: "getLayoutBuilder",
         value: function getLayoutBuilder(emp_id) {
-          var _this66 = this;
+          var _this67 = this;
 
           this.http.get(_environments_environment__WEBPACK_IMPORTED_MODULE_4__["environment"].API_URL + 'layoutBuilder/getEmp/' + emp_id, {}).subscribe(function (layout) {
             // Seta layout local
-            _this66.setLayout(layout); // State server
+            _this67.setLayout(layout); // State server
 
 
-            _this66.state.set(LAYOUT_KEY, layout); // Caso esteja no browser, sempre salva no localStorage
+            _this67.state.set(LAYOUT_KEY, layout); // Caso esteja no browser, sempre salva no localStorage
 
 
-            if (Object(_angular_common__WEBPACK_IMPORTED_MODULE_0__["isPlatformBrowser"])(_this66.platformId)) {
+            if (Object(_angular_common__WEBPACK_IMPORTED_MODULE_0__["isPlatformBrowser"])(_this67.platformId)) {
               layout._exp = Object(date_fns__WEBPACK_IMPORTED_MODULE_3__["addMinutes"])(new Date(), 30).getTime();
               localStorage.setItem('layout', JSON.stringify(layout));
             }
@@ -44369,7 +44390,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -44381,7 +44402,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
 
     var TrabalheService = /*#__PURE__*/function () {
       function TrabalheService(http) {
@@ -44451,7 +44472,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 
     var TrustvoxService = /*#__PURE__*/function () {
       function TrustvoxService() {
@@ -44548,7 +44569,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -44560,13 +44581,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common */
-    "./node_modules/@angular/common/fesm2015/common.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/common/http */
-    "./node_modules/@angular/common/fesm2015/http.js");
+    "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js");
     /* harmony import */
 
 
@@ -44578,7 +44599,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
+    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
     var UserService = /*#__PURE__*/function () {
       function UserService(platformId, http, cartS, router) {
@@ -44662,11 +44683,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "checkJwt",
         value: function checkJwt() {
-          var _this67 = this;
+          var _this68 = this;
 
           this.http.get(_environments_environment__WEBPACK_IMPORTED_MODULE_0__["environment"].API_URL + 'pessoa/checkJwt').subscribe(function (res) {
             if (res[0] !== 'OK') {
-              _this67.logoff();
+              _this68.logoff();
 
               return;
             }
@@ -44849,7 +44870,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "./node_modules/@angular/core/fesm2015/core.js");
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
     /* harmony import */
 
 
@@ -44867,7 +44888,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "./node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
+    "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
 
     if (_environments_environment_prod__WEBPACK_IMPORTED_MODULE_1__["environment"].production) {
       Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["enableProdMode"])();
